@@ -1,6 +1,6 @@
 A list of possible gimmicks 
 
-[outline]
+[outline](tadwtf_outline.md)
 
 * Super team
 	- TA, AD, Engineering, Design as a super hero group
