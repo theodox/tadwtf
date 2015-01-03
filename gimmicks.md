@@ -1,4 +1,6 @@
-A list of possible gimmicks
+A list of possible gimmicks 
+
+[outline]
 
 * Super team
 	- TA, AD, Engineering, Design as a super hero group
