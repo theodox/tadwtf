@@ -13,9 +13,9 @@ I : What's a TA
 	- how to get the most out of a department
 	- you could be a TAD or an AD, almost the same
 * damned if i know!
-	- Will Wright hook  ![WW photo]
+	- Will Wright hook  ![WW photo](http://img.tedcdn.com/r/images.ted.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?)
 - Litany of failed metaphors >> Ideally 2 or 3 images per section!
-	* MacGuvyer ![MacGuvyer photo]
+	* MacGuvyer ![MacGuvyer photo](http://www.edsocialmedia.com/wp-content/uploads/2014/05/macgyver.jpg)
 		- #resourceful
 		- TA's love solving problems
 			— we are usually self-selected
@@ -72,11 +72,12 @@ I : What's a TA
 			— #service
 			— #logistics / planning
 		- next part of the talk is to talk about how to be an informed consumer of TA services.
+			+ it's a tough role so i want to help you ask good questions
 		- Wrap up on building a good department.
- 
- >>  As of "Leonardo 3", coming in at 12 mins.  Not bad.
-	
-II:  setting expectations
+
+>> still about 12 mins.  Good.
+>> 
+II:  setting expectations  (>> TOO LONG!! 30 mins!)
 ================================
 * Segue : Being an informed consumer
 	- The key goal of tech art is to make other peoples work easier
@@ -87,17 +88,20 @@ II:  setting expectations
 		+ what matters is how you uses the tech art resources.
 	- I want to show you how to be an informed consumer of TA services.
 *  #Strategy vs #tactics (PROCESS)  >> Probably needs a wrapup infographic
-	- I'm going to divide TA up into two halves
-		+ #Strategy
+	- I'm going to divide TA up into two (slightly arbitrary) halves
+		+ #Strategy: 
+			- the "Mister carson side"
+			- logistics, planning, bullshit checking
 		+ #Tactics
+			- the "heal spam" side
+			- daily contacts, small jobs, help desk work
 	- you need both!
 		- balance shifts over the course of the project
 		- more strategy early, more tactics late
 		- But both they are mutually reinforcing
 		- And equally vital
 — Strategy and tactics anecdotes:
-	>> let me illustrate what I mean by #strategy
-	* Bad example: Zipper level design process
+	* Segue: let's illustrate strategy with a bad example: Zipper level design process
 		- it was not a process at all,  it was just the way things happened to get done
 		- Hand built levels
 		- Important data baked into UVs
@@ -140,7 +144,6 @@ II:  setting expectations
 			+ But it made the game shippable w/ tiny team
 			+ low cost in #brain_cells
 		- #Strategy saves the day
-	
 — Strategy reprise:
 	* Moral of all 3 stories:
 		- picking the right battles is the key to a successful production
@@ -161,7 +164,7 @@ II:  setting expectations
 				- scalability
 			-  The key thing that matter is **making the team pay attention to artists time and how it is spent.**
 			-  It it takes a title to do that, then great 	
-	*  Segue: We haven't said much about tactics
+	*  Segue: Now time for about tactics
 		-  When I say tactics, you should hear "help" or "service"  #cleric
 		-   tactics matters
 			+  small improvements are the core of the bond between TA and Art
@@ -174,24 +177,25 @@ II:  setting expectations
 			+ >> graphic? Maybe a pyramid with artist on top, TAs in the middle, tools programmers in the base?
 			+ This is why it's so important that the TA department has production experience.
 		-   People don't always see the big strategic savings, but they see the little things.
-			+  Artists are very conservative
-			+  Vulnerable to stockholm syndome
-			+  Example: Arena Net animations
-				- Everthing in one file??
-				- And if you change something at the beginning, you have to move all subsequent keys????
-				- And.... NO ONE COMPLAINED.
-		* Moral of the Anet story:
+	*   Arena net story: illustrate how artists are whipped
+		+  Artists are very conservative
+		+  Vulnerable to stockholm syndome
+		+  Example: Arena Net animations
+			- Everthing in one file??
+			- And if you change something at the beginning, you have to move all subsequent keys????
+			- And.... NO ONE COMPLAINED.
+		* Segue: Moral of the Anet story:
 			- artists don't always stick up for themselves
 			- you need to get their trust to make lives better 
 			-  So you need to invest in tactics - aka, investing in service - to protect the ability of the strategy side to deliver
-		*  Good tactics is really simple:
-			-  be friendly
-			-  be knowledgeable
-			-  be helpful
-			-  be responsive
-			-  You need to make sure your TA's do and don't retreat into their own little world.  Daily contacts are important!
-	
-	* So, how can you evaluate the tactics of your TA's?
+		*  So, what are good tactics?
+			+  Good tactics is really simple:
+				-  be friendly
+				-  be knowledgeable
+				-  be helpful
+				-  be responsive	
+			+   All down to the core message: saving #braincells
+	* Some practical examples
 		- Obviously, context specific
 		- but here are some examples:
 			- Does every crash generate an automatic email?
@@ -203,7 +207,15 @@ II:  setting expectations
 					+ Good person-to-person skills
 					+ Asking good questions
 					+ Prioritizing 
-			- Do the TA's keep artists happy and productive
+			- Do the TA's keep artists happy and productive?
+	* this is always a balancing act.
+		- it's hard to schedule for this
+		- service is a constant drain on attention
+		- it's hard to keep focused on big picture items
+			+ I tend to rotate people in an out of the hotseat
+			+ so there is fast response
+			+ and tactical knowledge
+		- Key point: don't siloize!
 	+ Tactics reprise
 		* Good tactics is all about service
 			- saving #braincells 
@@ -217,22 +229,26 @@ II:  setting expectations
 				- constant contact build political capital!
 			- Should be as embedded as possible
 			- Schedule, plan and work with #strategy and #tactics in mind
-	 	 	  
+
+>> 27 mins - still too long. Tactics section is flabby.  Need a stronger through-line
+>> 
+
 III:  Crisis management
 ==================================
 * Seque:  we've talked about the balance between #strategy and #tactics
+ 	+ but, to extend the warmongering metaphor, "No plan survives contact the enemy"
 	- The other big complicating factor in TA life is the balance between the planned and the unplanned.
-	- As napoleon used to say, "No plan survives contact the enemy"
 	- Good strats will fail. Good service will not magic away production crises
-	- Surviving crises is a key part of TA
+	- Managing  crises is a *critical* part of TA
 * production experience is _the_ key
 	- can't help what you don't do
 	- Good TA needs to be able to switch hit as a production artist
 		- not the best, but pro-level
 	- Ideally they have "lived the life"
-	- You need this for two reasons
+	- You need this for three reasons
 		- Can't do good tactics if you don't know the customers
 		- Can't do good strategy if you don't know the way things are made
+		- In the crises you need to be able to pitch in where needed, business card be damns
 * Disaster preparedness
 	- The main reason you need experiences is to avoid all the hidden minefields
 	- A lot of development is unplanned
@@ -258,7 +274,7 @@ III:  Crisis management
 	- open file formats
 	- automation tools
 	- asset tracking and metadata
-	-
+* 
 IV: Wrap
 ===========
 *	Sum up
@@ -273,4 +289,72 @@ IV: Wrap
 		+	Good drawer full of tools
 		+	flexible scheduling	
 *  QA
+
+Delenda / notes
+============================================================================
+
+
+- When putting together a department, you need a mix of personalities and skills
+* Some examples of different skills with the same title
+	- Riggers
+		+ subdivided into 'character riggers' and 'technical animators' and 'mocap specialists' and state-machine drivers
+	- FX guys
+		+ broad range between graphics programmers who write own shaders and particles to production artists
+	- 
+* Returning to the theme of "fluidity"
+	- A good department is a mix of  mix of art and tech skills
+		— not just scripters!
+			- riggers should animate
+			- scripters should use own tools
+			- fx / shader wizards need to make art
+
+	-  Getting the most out of your TAD:
+		* Wargaming  (DIPLOMACY)
+			* Going to engineers with requests gives them all the power to approve or disapprove
+			* Going in with a plan lets you set the agenda
+			* Get TAD in on the artistic side of the plan, pick technologies that support that
+			* Then pad your request list a bit :)
+			* There will still be pushback
+			* but if you start with a plan, you’re negotiating, not begging.
+		* Use your TAs to improve the process  (PROC VISION)
+			* constantly look for bullshit
+				* what wastes time?
+				* what wastes effort?
+			* Be on the lookout for stockholm syndrome
+				* Arena example
+				* Bungie example
+				* When artists are too beaten down they don’t even see the pain any more
+			* Invest in fixing the process, not bandaids
+				* Zipper polygon example
+			* Invest in automation, not human wave attacks
+				* State of Decay vs Halo
+				* Wes anecdote
+				* You’ll lose good people if you give them awful work to do
+					* true for artists too!
+				* There will still alway be situations that need human judgement and eyeballs
+					* Like Normandy beach -sometimes you have to make a frontal assault
+					* But if you do it every time you’ll be defeated
+		* Use your TA's as pioneers (RENAISSANCE MAN)
+			- go in early
+			- prototype the process
+			- push back on engineers
+			- validate the practicality
+			- then commit the line guys	
+		* Expect good service (BUTLER)
+			- TA's are there to unblock
+			- they need to perfect the art of doing that while not getting bogged down
+				— public backlogs
+				— good communication
+				— effective support
+				— fast responses
+			- need lots of uptime!
+		* Reminder: No human wave attacks!
+			- There will be times when somebody has to take one for the team
+			- But it that's all they do, you won't keep the smart ones very long
+		* 
+
+
+=======================================================================
+
+
 
