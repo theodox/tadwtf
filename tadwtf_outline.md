@@ -38,7 +38,7 @@ I : What's a TA?
 			+ Sometimes, jack-of-all-trades-master-of-none
 		- TA's work to bring art and engineering together
 		- So, that's a good idea of what a TA does.. 
-	* segue: But what about teamwork?   ![RPG image with mage, thief, fighter, cleric]
+	* segue: But what about teamwork?   ![RPG image with mage, thief, fighter, cleric](http://site.worldatplaygames.com/images/other/munchkin/classes.jpg)
 		- RPG quad
 		- Emphasizes teamwork  #service
 		- Engineering = Wizard.  The glass cannon
