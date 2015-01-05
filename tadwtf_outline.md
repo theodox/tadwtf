@@ -6,7 +6,7 @@ TBD: Anonymize the anecdotes?
 NEED TO ADD THEME:  "DON"T WASTE TALENT!!!!!""
 
 Hooks
-I : What's a TA
+I : What's a TA?
 ===================
 * intro / credits
 * Aim of the talk:
@@ -76,7 +76,7 @@ I : What's a TA
 		- Wrap up on building a good department.
 
 >> still about 12 mins.  Good.
->> 
+
 II:  setting expectations  (>> TOO LONG!! 30 mins!)
 ================================
 * Segue : Being an informed consumer
