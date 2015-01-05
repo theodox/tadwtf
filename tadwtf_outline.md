@@ -48,7 +48,7 @@ I : What's a TA?
 		- Good metaphor! but service means more than spamming heals
 			— nobody likes playing as just a buff buddy
 	* Segue: service != spamming heals!
-		- ![ Downton abbey / Mr Carson] >> perfect image would use almost the same layout as rpg image
+		- ![ Downton abbey / Mr Carson] (http://fc03.deviantart.net/fs71/f/2012/130/2/c/downton_abbey___promotional_poster_by_emreunayli-d4z89pw.jpg) 
 		- Service which knows its own domain very well.   #logistics
 		- gives deference, but expects to be recognized for expertise
 		- the core of that expertise is in logistics and planning
