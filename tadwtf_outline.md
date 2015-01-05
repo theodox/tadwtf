@@ -25,7 +25,7 @@ I : What's a TA?
 		- But:
 			- he's a loner >> hair jokes
 			- we work with others 
-	* segue: renaissance man >> ![Leonardo]
+	* segue: renaissance man >> ![Leonardo](http://b-i.forbesimg.com/anthonykosner/files/2013/08/leonardo-da-vinci-06.jpg)
 		- the "technical"  in technical art makes it sound like it's all engineering
 		- Leonardo is a good example of the idea that you can do both
 		- ![mona lisa]
@@ -59,7 +59,8 @@ I : What's a TA?
 	* Seque:  I almost wanted to use that as the final image
 		- partly because it's funny
 		- But I realized, at long last, that I already had the right image
-		- it's a T-Shirt you can order from tech-artists.org ![t-a t-shirt](http://image.spreadshirt.com/image-server/v1/compositions/18837146/views/1,width=280,height=280,appearanceId=4.png/i-am-a-tech-artist-standard-weight-tee-any-color_design.png)
+		- it's a T-Shirt you can order from tech-artists.org 
+		- ![t-a t-shirt](http://image.spreadshirt.com/image-server/v1/compositions/18837146/views/1,width=280,height=280,appearanceId=4.png/i-am-a-tech-artist-standard-weight-tee-any-color_design.png)
 		- And that sums it up:
 			- TA = "making artists more productive"
 			- The most precious resource in any production is creative #brain_cells
