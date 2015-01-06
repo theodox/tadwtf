@@ -12,7 +12,11 @@ I : What's a TA?
 * Aim of the talk:
 	- how to get the most out of a department
 	- you could be a TAD or an AD, almost the same
-* damned if i know!
+	- talk falls in 3 big buckets
+		+ Overview of what TA is for
+		+ How to be a good consumer of TA services
+		+ Keeping your TA department in shape
+* What's TA? damned if i know!
 	- Will Wright hook  ![WW photo](http://img.tedcdn.com/r/images.ted.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?)
 - Litany of failed metaphors >> Ideally 2 or 3 images per section!
 	* MacGuvyer ![MacGuvyer photo](http://www.edsocialmedia.com/wp-content/uploads/2014/05/macgyver.jpg)
@@ -48,7 +52,7 @@ I : What's a TA?
 		- Good metaphor! but service means more than spamming heals
 			— nobody likes playing as just a buff buddy
 	* Segue: service != spamming heals!
-		- ![ Downton abbey / Mr Carson] (http://fc03.deviantart.net/fs71/f/2012/130/2/c/downton_abbey___promotional_poster_by_emreunayli-d4z89pw.jpg) 
+		- ![ Downton abbey / Mr Carson](http://fc03.deviantart.net/fs71/f/2012/130/2/c/downton_abbey___promotional_poster_by_emreunayli-d4z89pw.jpg) 
 		- Service which knows its own domain very well.   #logistics
 		- gives deference, but expects to be recognized for expertise
 		- the core of that expertise is in logistics and planning
@@ -56,7 +60,7 @@ I : What's a TA?
 			+ making it easy to achieve those tasks.
 		- is it sexy? not always
 		- but it makes the sexy stuff possible	 	 
-	* Seque:  I almost wanted to use that as the final image
+	* Segue:  I almost wanted to use that as the final image
 		- partly because it's funny
 		- But I realized, at long last, that I already had the right image
 		- it's a T-Shirt you can order from tech-artists.org 
@@ -72,23 +76,24 @@ I : What's a TA?
 			— #diplomacy
 			— #service
 			— #logistics / planning
-		- next part of the talk is to talk about how to be an informed consumer of TA services.
-			+ it's a tough role so i want to help you ask good questions
-		- Wrap up on building a good department.
+		- All boil down to one big thing:
+			+ Making artists more productive
 
 >> still about 12 mins.  Good.
 
 II:  setting expectations  (>> TOO LONG!! 30 mins!)
 ================================
 * Segue : Being an informed consumer
-	- The key goal of tech art is to make other peoples work easier
-	- That's what you want from your TA department
+ 	- next part of the talk is to talk about how to be an informed consumer of TA services.
+			+ because it's so fluid, i want to help you ask good questions
 	- This section of the talk is about how to be a good consumer
 		+ Doesn't matter who runs the group
 		+ or  what the TOE looks like
 		+ what matters is how you uses the tech art resources.
 	- I want to show you how to be an informed consumer of TA services.
 *  #Strategy vs #tactics (PROCESS)  >> Probably needs a wrapup infographic
+	- It's a big topic, so I'll have to look at in in a pretty general way
+		+ not talking about techie details
 	- I'm going to divide TA up into two (slightly arbitrary) halves
 		+ #Strategy: 
 			- the "Mister carson side"
