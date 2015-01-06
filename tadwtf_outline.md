@@ -31,7 +31,7 @@ I : What's a TA?
 			- we work with others 
 	* segue: renaissance man >> ![Leonardo](http://b-i.forbesimg.com/anthonykosner/files/2013/08/leonardo-da-vinci-06.jpg)
 		- the "technical"  in technical art makes it sound like it's all engineering
-		- Leonardo is a good example of the idea that you can do both
+		- Leonardo is proof idea that you can be technical and creative
 		- ![mona lisa]
 			+ We all know he painted the mona lisa
 		- ![tech drawing]
@@ -41,7 +41,7 @@ I : What's a TA?
 			+ we can talk to artists and to programmers;  #hybrid
 			+ Sometimes, jack-of-all-trades-master-of-none
 		- TA's work to bring art and engineering together
-		- So, that's a good idea of what a TA does.. 
+			+ because we speak both languages, we are often the negotiators or diplomats 
 	* segue: But what about teamwork?   ![RPG image with mage, thief, fighter, cleric](http://site.worldatplaygames.com/images/other/munchkin/classes.jpg)
 		- RPG quad
 		- Emphasizes teamwork  #service
@@ -98,9 +98,13 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 		+ #Strategy: 
 			- the "Mister carson side"
 			- logistics, planning, bullshit checking
+			- this is big-picture stuff
+			- technically focused
+			- emphasis on picking right workflows and tools design
 		+ #Tactics
 			- the "heal spam" side
 			- daily contacts, small jobs, help desk work
+			- this is small picture stuff: keeping people happy day to day
 	- you need both!
 		- balance shifts over the course of the project
 		- more strategy early, more tactics late
