@@ -94,7 +94,7 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 *  #Strategy vs #tactics (PROCESS)  >> Probably needs a wrapup infographic
 	- It's a big topic, so I'll have to look at in in a pretty general way
 		+ not talking about techie details
-	- I'm going to divide TA up into two (slightly arbitrary) halves
+	- To keep it simple, I'm going to divide TA up into two (slightly arbitrary) halves
 		+ #Strategy: 
 			- the "Mister carson side"
 			- logistics, planning, bullshit checking
@@ -106,10 +106,11 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			- daily contacts, small jobs, help desk work
 			- this is small picture stuff: keeping people happy day to day
 	- you need both!
-		- balance shifts over the course of the project
-		- more strategy early, more tactics late
-		- But both they are mutually reinforcing
-		- And equally vital
+		+ Both are important, as you'll see
+			- balance shifts over the course of the project
+			- more strategy early, more tactics late
+			- But both they are mutually reinforcing
+			- And equally vital
 — Strategy and tactics anecdotes:
 	* Segue: let's illustrate strategy with a bad example: Zipper level design process
 		- it was not a process at all,  it was just the way things happened to get done
@@ -163,6 +164,24 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 		- Every artists knows this while working
 			- do don't forget it when thinking about how the production is designed
 		-  You should expect... no, demand! -- good strategic insights from your TAD 	
+	*  TA's are good at strategy because
+		-  They know both sides of the equation #leonardo
+			+  Can talk to both sides
+			+  Can help negotiate production decisions
+				-  Marcus' physics story
+				-  Gabe's 'intuition' story (? maybe)
+				-  Jeff's recolor story
+					+  sometimes the two views are very different!
+		-  They have production know-how 
+			+  eating your own dogfood is good
+				- TAs do; tools programmers usually don't
+				- Ben's photoshop file story
+		-  They've usually seen the results of mistakes close up!
+			+  bad decisions often land in our laps
+			+  We know the hard truth:
+				- no handshake agreement lasts
+				- everything is iterative
+				- yesterday's stretch goal is tomorrow's front line feature
 	* Side note: Strategy and organization
 		-  Is TA a department or group?
 		-  Personally I don't much care
@@ -181,11 +200,13 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			+  show that problems are understood
 			+  and artist time is valued
 	* Tactics is the foundation of strategy
-		- The reason the industry moved away from tools programmers and towards TAS is that TA have lived the life
-			+ they know the needs
-			+ they know the frustrations
-			+ >> graphic? Maybe a pyramid with artist on top, TAs in the middle, tools programmers in the base?
-			+ This is why it's so important that the TA department has production experience.
+		-  To some degree it's just because little details matter
+			+  All artists know that
+			+  Saving a few seconds here or there, avoiding a minor annoyance can make a big psychological difference to your work
+		-	But more importantly, you need the intel
+			+	You don't know what's going on if you're not in daily contact
+				-	I struggle with this all the time...
+				-	Artists don't report bugs!	
 		-   People don't always see the big strategic savings, but they see the little things.
 	*   Arena net story: illustrate how artists are whipped
 		+  Artists are very conservative
@@ -216,21 +237,31 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 				+ there are lots of forms
 					+ Good person-to-person skills
 					+ Asking good questions
-					+ Prioritizing 
-			- Do the TA's keep artists happy and productive?
-	* this is always a balancing act.
-		- it's hard to schedule for this
+					+ Prioritizing 	
+					+ training and education
+					+ docs...
+			- Do TA's take and implement requests?
+	* Segue: time management
+		- Good tactics are not something you can just schedule
 		- service is a constant drain on attention
 		- it's hard to keep focused on big picture items
 			+ I tend to rotate people in an out of the hotseat
 			+ so there is fast response
 			+ and tactical knowledge
 		- Key point: don't siloize!
+	* A good pop quiz:
+		- find an obscure production feature
+		- ask a TA how it works
+			- do they know how?
+			- can they figure it out?
+			- do they know who does know?
+		- obviously, nobody knows everything
+		- but a healthy group knows how to find it out. 		 	 
 	+ Tactics reprise
 		* Good tactics is all about service
 			- saving #braincells 
 			- keeping people happy and productive
-		* The hardest task for TA's is balancing strategy and tactics
+		+ The hardest task for TA's is balancing strategy and tactics
 			- Strategy, like engineering, tends to take lots of time
 			- tension between doing service and complex code
 			- TA's need to resist temptation to vanish into the ether
