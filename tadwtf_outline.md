@@ -83,25 +83,25 @@ I : What's a TA?
 
 II:  setting expectations  (>> TOO LONG!! 30 mins!)
 ================================
-* Segue : Being an informed consumer
- 	- next part of the talk is to talk about how to be an informed consumer of TA services.
-			+ because it's so fluid, i want to help you ask good questions
-	- This section of the talk is about how to be a good consumer
-		+ Doesn't matter who runs the group
-		+ or  what the TOE looks like
-		+ what matters is how you uses the tech art resources.
-	- I want to show you how to be an informed consumer of TA services.
+* Segue : Ta is important. It's a high value service. So you should learn how to use it. 
+	- Being an informed consumer
+ 	- I want to show you how to be an informed consumer of TA services.
+ 	- Give you ways of looking at what ta's do 
+ 	- so you can ask for the right kinds of help
+ 	- and get the most value out of these people who are here to make your life easier.
+ 
 *  #Strategy vs #tactics (PROCESS)  >> Probably needs a wrapup infographic
 	- It's a big topic, so I'll have to look at in in a pretty general way
 		+ not talking about techie details
 	- To keep it simple, I'm going to divide TA up into two (slightly arbitrary) halves
 		+ #Strategy: 
-			- the "Mister carson side"
+			- this is big-picture stuff, year-to-year stuff
 			- logistics, planning, bullshit checking
-			- this is big-picture stuff
-			- technically focused
+			- the "Mister carson side"
 			- emphasis on picking right workflows and tools design
+			- Ta's good because they can see the tech and production side!
 		+ #Tactics
+			- the day to day side		
 			- the "heal spam" side
 			- daily contacts, small jobs, help desk work
 			- this is small picture stuff: keeping people happy day to day
@@ -114,14 +114,25 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 — Strategy and tactics anecdotes:
 	* Segue: let's illustrate strategy with a bad example: Zipper level design process
 		- it was not a process at all,  it was just the way things happened to get done
-		- Hand built levels
-		- Important data baked into UVs
-		- Roads, blends done by hand.
-		- 6-8 week turnaround time for significant changes
-		- Compare counterstrike, where we could turn around the level in a day!
-		- Bad strategy = Bad process = bad games!
+			+ poor feedback looks: weeks not hours
+			+ hard to parallelize
+		- Low productivity
+			- Done in maya
+				- mistake right off - maya is bad a this sort of thing
+			- 10 minute load times
+			- could not show all the placements
+		- Bad feedback
+			+ Maya file was not wysiwyg
+			+ long export times
+			- exports generates so many errors they had to rebuild the exporter... to accomodate more error messages
+			- lots of working in the dark
+		* Turnaround time > 6 weeks
+			- UV changes
+			- moving roads
+			- trial and error exports
+		* Impossible to fine tune
 	+ Bad example 2: Bungie lightmaps
-		- sometimes the problem is not design or engineering:  
+		- segue: sometimes the problem is not design or engineering:  
 		- sometimes it's artists!
 			- all the artists wanted exact control
 			- But the reality was a fixed pie
@@ -133,11 +144,36 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 				+ less time to think 	
 				+ risk aversion
 			- There are times when great outcome is worth sacrificing for... but this was not one of them!
+	+  There is no such thing as a perfect pipeline
+		-  there are always bugs
+		-  always rickety improvisations
+		-  always bad guesses about the future.
+		-  But you can make this better if you have good strats.
+	*  Good example of strategy:
+		-  Hat tip: Dhunt
+		-  Changing bungie character process
+		-  Old way:
+			+  iterate in concept
+			+  model
+			+  texture
+			+  review & approve
+			+  rig
+			+  animate
+			+  Oops! back to step 1!
+		-  New way
+			+  iterate in concept
+			+  Massing model
+			+  Concept animation
+			+  Review and approve
+			+  Texture
+			+  Rig and animate
+			+  Yay!
 	* Good example of #strategy >> Screen shot series, this is probably 4 'slides'
-		— State of decay 
-			— has 16 square km
-			— 40,000 objects placed in the world
-			— And parkour-style movement
+		— State of decay problems:
+			- Big open world game
+				— has 16 square km
+				— 40,000 objects placed in the world
+				— And parkour-style movement
 			— And a team of 20
 		— Design wanted to hand-place the markup
 			- it's fast and easy
@@ -156,7 +192,7 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			+ low cost in #brain_cells
 		- #Strategy saves the day
 — Strategy reprise:
-	* Moral of all 3 stories:
+	* Moral of all 4 stories:
 		- picking the right battles is the key to a successful production
 		- you need good strategy to preserve #braincells
 		- Not everything can be highest quality
@@ -194,6 +230,7 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			-  The key thing that matter is **making the team pay attention to artists time and how it is spent.**
 			-  It it takes a title to do that, then great 	
 	*  Segue: Now time for about tactics
+		-  Like strategy there are a million details we don't want to cover.
 		-  When I say tactics, you should hear "help" or "service"  #cleric
 		-   tactics matters
 			+  small improvements are the core of the bond between TA and Art
@@ -219,13 +256,18 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			- artists don't always stick up for themselves
 			- you need to get their trust to make lives better 
 			-  So you need to invest in tactics - aka, investing in service - to protect the ability of the strategy side to deliver
-		*  So, what are good tactics?
-			+  Good tactics is really simple:
+		*  Segue: since artists don't stick up for themselves, be proactive
+			-  TAs need to spend time with their clients
+				+  observing
+				+  asking questions
+				+  answering questions
+				+  helping out
+			+  Good tactics boils down:
 				-  be friendly
 				-  be knowledgeable
 				-  be helpful
-				-  be responsive	
-			+   All down to the core message: saving #braincells
+				-  be responsive
+				-  above all, be _there_	
 	* Some practical examples
 		- Obviously, context specific
 		- but here are some examples:
@@ -248,15 +290,7 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			+ I tend to rotate people in an out of the hotseat
 			+ so there is fast response
 			+ and tactical knowledge
-		- Key point: don't siloize!
-	* A good pop quiz:
-		- find an obscure production feature
-		- ask a TA how it works
-			- do they know how?
-			- can they figure it out?
-			- do they know who does know?
-		- obviously, nobody knows everything
-		- but a healthy group knows how to find it out. 		 	 
+		- Key point: don't siloize! 		 	 
 	+ Tactics reprise
 		* Good tactics is all about service
 			- saving #braincells 
