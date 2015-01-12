@@ -9,14 +9,20 @@ Hooks
 I : What's a TA?
 ===================
 * intro / credits
-* Aim of the talk:
-	- how to get the most out of a department
-	- you could be a TAD or an AD, almost the same
-	- talk falls in 3 big buckets
-		+ Overview of what TA is for
-		+ How to be a good consumer of TA services
-		+ Keeping your TA department in shape
-* What's TA? damned if i know!
+* I started this talk as a discussion of my job
+	- but that's not too interesting to this audience
+	- instead
+		- how to get the most out of a department
+		- TA is a new field
+			- 2006 article
+			- 2009 trip
+			- now recognized - but often mis-used
+		- So this talk is about
+			+ Overview of what TA is for
+			+ How to be a good consumer of TA services
+			+ Keeping your TA department in shape
+* What's TA? 
+	- It's a hard thing to pin  down
 	- Will Wright hook  ![WW photo](http://img.tedcdn.com/r/images.ted.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?)
 - Litany of failed metaphors >> Ideally 2 or 3 images per section!
 	* MacGuvyer ![MacGuvyer photo](http://www.edsocialmedia.com/wp-content/uploads/2014/05/macgyver.jpg)
@@ -78,18 +84,14 @@ I : What's a TA?
 			— #logistics / planning
 		- All boil down to one big thing:
 			+ Making artists more productive
-
->> still about 12 mins.  Good.
-
+>> now about 10 mins including intro. Good!
 II:  setting expectations  (>> TOO LONG!! 30 mins!)
 ================================
 * Segue : Ta is important. It's a high value service. So you should learn how to use it. 
 	- Being an informed consumer
  	- I want to show you how to be an informed consumer of TA services.
- 	- Give you ways of looking at what ta's do 
- 	- so you can ask for the right kinds of help
- 	- and get the most value out of these people who are here to make your life easier.
- 
+	- How to understand what TA's do  in the long view
+	- How to get the most out of your TAs 
 *  #Strategy vs #tactics (PROCESS)  >> Probably needs a wrapup infographic
 	- It's a big topic, so I'll have to look at in in a pretty general way
 		+ not talking about techie details
@@ -106,10 +108,13 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			- daily contacts, small jobs, help desk work
 			- this is small picture stuff: keeping people happy day to day
 	- you need both!
-		+ Both are important, as you'll see
-			- balance shifts over the course of the project
+		+ Both are important
+			- too much tactics doesn't achieve big savings or major new ways to work
+			- too much strategy can leave the artists feeling abandoned and the TAs out of touch.
+
+		+ balance shifts over the course of the project
 			- more strategy early, more tactics late
-			- But both they are mutually reinforcing
+		- But both they are mutually reinforcing
 			- And equally vital
 — Strategy and tactics anecdotes:
 	* Segue: let's illustrate strategy with a bad example: Zipper level design process
