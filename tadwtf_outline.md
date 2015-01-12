@@ -95,7 +95,7 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 *  #Strategy vs #tactics (PROCESS)  >> Probably needs a wrapup infographic
 	- It's a big topic, so I'll have to look at in in a pretty general way
 		+ not talking about techie details
-	- To keep it simple, I'm going to divide TA up into two (slightly arbitrary) halves
+	- To keep it simple, I'm going to divide TA up into two (arbitrary) halves
 		+ #Strategy: 
 			- this is big-picture stuff, year-to-year stuff
 			- logistics, planning, bullshit checking
@@ -107,17 +107,22 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			- the "heal spam" side
 			- daily contacts, small jobs, help desk work
 			- this is small picture stuff: keeping people happy day to day
-	- you need both!
-		+ Both are important
-			- too much tactics doesn't achieve big savings or major new ways to work
-			- too much strategy can leave the artists feeling abandoned and the TAs out of touch.
-
-		+ balance shifts over the course of the project
-			- more strategy early, more tactics late
-		- But both they are mutually reinforcing
-			- And equally vital
+* you need both!
+	+ Both are important
+		- too much tactics doesn't achieve big savings or major new ways to work
+			+ Often artists only want this, don't want bigger pictures stuff
+		- too much strategy can leave the artists feeling abandoned and the TAs out of touch.
+			+ Often TA's get too heads down, too much like 'programmers'
+	+ balance shifts over the course of the project
+		- more strategy early, more tactics late
+		- start with planning, experimentation, prototypes
+		- over time, move into maintain-and-explain mode
+	- Finding the right balance is a an important key to getting the most out of TA  #advice
 — Strategy and tactics anecdotes:
-	* Segue: let's illustrate strategy with a bad example: Zipper level design process
+	* Segue:
+		- I've been in the business 20 years
+		- Friends said I could do the whole talk with nothing but horror stories
+	 *  I do want to illustrate strategy with a bad example: Zipper level design process
 		- it was not a process at all,  it was just the way things happened to get done
 			+ poor feedback looks: weeks not hours
 			+ hard to parallelize
@@ -131,31 +136,29 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			+ long export times
 			- exports generates so many errors they had to rebuild the exporter... to accomodate more error messages
 			- lots of working in the dark
-		* Turnaround time > 6 weeks
+		- Turnaround time > 6 weeks
 			- UV changes
 			- moving roads
 			- trial and error exports
-		* Impossible to fine tune
-	+ Bad example 2: Bungie lightmaps
-		- segue: sometimes the problem is not design or engineering:  
-		- sometimes it's artists!
-			- all the artists wanted exact control
-			- But the reality was a fixed pie
-			- Couldn't make them budge
-		— result: a huge waste of time, energy, #braincells
-			- Results indistinguishable from auto-mapping
-			- probably cost $250,000 per year  (10% of c-o-e for 20ish artists & TA support)
-			- More importantly, it affected art choices 
-				+ less time to think 	
-				+ risk aversion
-			- There are times when great outcome is worth sacrificing for... but this was not one of them!
-	+  There is no such thing as a perfect pipeline
-		-  there are always bugs
-		-  always rickety improvisations
-		-  always bad guesses about the future.
-		-  But you can make this better if you have good strats.
-	*  Good example of strategy:
-		-  Hat tip: Dhunt
+		- Impossible to fine tune gameplay; killed the company
+	* What is bad strategy? 
+		- Could be bad tech, or just bad process
+			+ usually it's both
+			+ No matter how you get there the symptoms are the same
+		+  process that is mysterious
+			- Bungie materials story
+		+  process that is too cumbersome
+			- Valve materials story
+		+ Workflows that get in the way of iteration
+			- sluggish 
+			- fragile or unreliable
+		+ Workflows that aren't  collaborative
+			- Ben W' Photoshop files
+		+ In short: bad strategy gets in the way of artists doing their jobs
+		+ Ta's are very passionate about these things
+			- our job involves cleaning up after these messes
+			- So we take a big interest in fixing them
+	*  Good example of how TA's can drive a succesful strategy:
 		-  Changing bungie character process
 		-  Old way:
 			+  iterate in concept
@@ -173,56 +176,39 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			+  Texture
 			+  Rig and animate
 			+  Yay!
-	* Good example of #strategy >> Screen shot series, this is probably 4 'slides'
-		— State of decay problems:
-			- Big open world game
-				— has 16 square km
-				— 40,000 objects placed in the world
-				— And parkour-style movement
-			— And a team of 20
-		— Design wanted to hand-place the markup
-			- it's fast and easy
-			- we can tweak it!
-			- They were thinking "next milestone", ie, tactics
-		— I said no
-			- I was thinking "next year": strategy
-			- the data was unnatural.  What is an oriented line?
-			- even if we did it once, we could never manage it
-			- and we ended up rebuilding the world 2.5 times
-			- We build the markup into the tools
-		- End result: we shipped the game, and it more or less worked.
-			+ not perfect. Some assets could not be reused
-			+ needed work from art, TA and engineering
-			+ But it made the game shippable w/ tiny team
-			+ low cost in #brain_cells
-		- #Strategy saves the day
-— Strategy reprise:
-	* Moral of all 4 stories:
-		- picking the right battles is the key to a successful production
-		- you need good strategy to preserve #braincells
-		- Not everything can be highest quality
-		- Not everything can be hand tweaked to a high gloss
-		- Every artists knows this while working
-			- do don't forget it when thinking about how the production is designed
-		-  You should expect... no, demand! -- good strategic insights from your TAD 	
-	*  TA's are good at strategy because
-		-  They know both sides of the equation #leonardo
-			+  Can talk to both sides
-			+  Can help negotiate production decisions
-				-  Marcus' physics story
-				-  Gabe's 'intuition' story (? maybe)
-				-  Jeff's recolor story
-					+  sometimes the two views are very different!
-		-  They have production know-how 
-			+  eating your own dogfood is good
-				- TAs do; tools programmers usually don't
-				- Ben's photoshop file story
-		-  They've usually seen the results of mistakes close up!
-			+  bad decisions often land in our laps
-			+  We know the hard truth:
-				- no handshake agreement lasts
-				- everything is iterative
-				- yesterday's stretch goal is tomorrow's front line feature
+	*  Strategy has many details, but Good strategies...
+		-  Are understandable!	
+			-  TAs can help more, if they contribute more
+			-  That's why I like this kind of exporter dialog ![1 button exporter dialog image]
+			-  instead of this ![typical Fbx with all options visible]
+		-  Are efficient
+			+  One button and go is good
+			+ But there are many other ways to make things efficient
+				+  automatic naming and file placement
+				+  visual browsers with tagging instead of folder hierarchies
+				+  Search and replace in data files
+		-  Are collaborative and iterative
+			+  CTRL+G is good !
+* Strategy reprise:
+	- picking the right battles is the key to a successful production
+	- you need good strategy to preserve the dedication and love of your artists
+	-  You should expect... no, demand! -- good strategic insights from your TAD 	
+*  TA's are good at strategy because
+	-  They know both sides of the equation #leonardo
+		+  Can talk to both sides
+		+  Can help negotiate production decisions
+			- Girling story
+			-  Jeff's recolor story
+				+  sometimes the two views are very different!
+	-  They have production know-how 
+		+  eating your own dogfood is good
+			- TAs do; tools programmers usually don't
+	-  They've usually seen the results of mistakes close up!
+		+  bad decisions often land in our laps
+		+  We know the hard truth:
+			- no handshake agreement lasts
+			- everything is iterative
+			- yesterday's stretch goal is tomorrow's front line feature
 	* Side note: Strategy and organization
 		-  Is TA a department or group?
 		-  Personally I don't much care
@@ -241,6 +227,8 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			+  small improvements are the core of the bond between TA and Art
 			+  show that problems are understood
 			+  and artist time is valued
+			+  This is the most common form of tech-art
+				-  in too many companies its the only form.
 	* Tactics is the foundation of strategy
 		-  To some degree it's just because little details matter
 			+  All artists know that
@@ -261,43 +249,47 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			- artists don't always stick up for themselves
 			- you need to get their trust to make lives better 
 			-  So you need to invest in tactics - aka, investing in service - to protect the ability of the strategy side to deliver
+			-   If you want to implement new better workflows, you have to prove yourself to the artists
 		*  Segue: since artists don't stick up for themselves, be proactive
 			-  TAs need to spend time with their clients
 				+  observing
 				+  asking questions
 				+  answering questions
 				+  helping out
-			+  Good tactics boils down:
-				-  be friendly
-				-  be knowledgeable
-				-  be helpful
-				-  be responsive
-				-  above all, be _there_	
-	* Some practical examples
-		- Obviously, context specific
-		- but here are some examples:
-			- Does every crash generate an automatic email?
-				- .. and do TA's respond?
-			- Are tools released with testing and validation
-				- .. or just dumped into a network share?
-			- Do TA's know how to help?
-				+ there are lots of forms
-					+ Good person-to-person skills
-					+ Asking good questions
-					+ Prioritizing 	
-					+ training and education
-					+ docs...
-			- Do TA's take and implement requests?
+			-  If they lose touch they turn into just plain old tools programmers
+		*  Good tactics boils down to relationships:
+			-  be friendly
+			-  be knowledgeable
+			-  be helpful
+			-  be responsive
+			-  above all, be _there_
+			- >> keep the joke about "if being a grouchy genius is needed, we have programmers for that"	
+	* If your not in the trenches it's hard to judge those relationships...
+		- but here are some things you can look for
+		- Does every crash generate an automatic email?
+			- .. and do TA's respond?
+		- Are tools released with testing and validation
+			- .. or just dumped into a network share?
+		- Do TA's know how to help?
+			+ there are lots of forms
+				+ Good person-to-person skills
+				+ Asking good questions
+				+ Prioritizing 	
+				+ training and education
+				+ docs...
+		- How Do TA's take and implement requests?
+			+ is it transparent? Is it well managed
 	* Segue: time management
 		- Good tactics are not something you can just schedule
 		- service is a constant drain on attention
+		- Post-it story
 		- it's hard to keep focused on big picture items
 			+ I tend to rotate people in an out of the hotseat
 			+ so there is fast response
 			+ and tactical knowledge
 		- Key point: don't siloize! 		 	 
-	+ Tactics reprise
-		* Good tactics is all about service
+	* Tactics reprise
+		+ Good tactics is all about service
 			- saving #braincells 
 			- keeping people happy and productive
 		+ The hardest task for TA's is balancing strategy and tactics
@@ -308,18 +300,11 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 				- constant contact gives TAs better knowledge of the problems
 				- constant contact build political capital!
 			- Should be as embedded as possible
-			- Schedule, plan and work with #strategy and #tactics in mind
-
->> 27 mins - still too long. Tactics section is flabby.  Need a stronger through-line
->> 
-
-III:  Crisis management
-==================================
-* Seque:  we've talked about the balance between #strategy and #tactics
- 	+ but, to extend the warmongering metaphor, "No plan survives contact the enemy"
-	- The other big complicating factor in TA life is the balance between the planned and the unplanned.
-	- Good strats will fail. Good service will not magic away production crises
-	- Managing  crises is a *critical* part of TA
+	* Seque:  we've talked about the balance between #strategy and #tactics
+	 	+ but, to extend the warmongering metaphor, "No plan survives contact the enemy"
+		- The other big complicating factor in TA life is the balance between the planned and the unplanned.
+		- Good strats will fail. Good service will not magic away production crises
+		- Managing  crises is a *critical* part of TA
 * production experience is _the_ key
 	- can't help what you don't do
 	- Good TA needs to be able to switch hit as a production artist
@@ -438,3 +423,21 @@ Delenda / notes
 
 
 
+	+ Bad example 2: Bungie lightmaps
+		- segue: sometimes the problem is not design or engineering:  
+		- sometimes it's artists!
+			- all the artists wanted exact control
+			- But the reality was a fixed pie
+			- Couldn't make them budge
+		— result: a huge waste of time, energy, #braincells
+			- Results indistinguishable from auto-mapping
+			- probably cost $250,000 per year  (10% of c-o-e for 20ish artists & TA support)
+			- More importantly, it affected art choices 
+				+ less time to think 	
+				+ risk aversion
+			- There are times when great outcome is worth sacrificing for... but this was not one of them!
+	+  There is no such thing as a perfect pipeline
+		-  there are always bugs
+		-  always rickety improvisations
+		-  always bad guesses about the future.
+		-  But you can make this better if you have good strats.
