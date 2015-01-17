@@ -306,14 +306,11 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 		- Good strats will fail. Good service will not magic away production crises
 		- Managing  crises is a *critical* part of TA
 * production experience is _the_ key
-	- can't help what you don't do
-	- Good TA needs to be able to switch hit as a production artist
-		- not the best, but pro-level
-	- Ideally they have "lived the life"
 	- You need this for three reasons
-		- Can't do good tactics if you don't know the customers
+ 		- Can't do good tactics if you don't know the customers
 		- Can't do good strategy if you don't know the way things are made
-		- In the crises you need to be able to pitch in where needed, business card be damns
+		- In the crises you need to be able to pitch in where needed, business card be damned
+	- Don't want to waltz in with no knowledge of ground truths		
 * Disaster preparedness
 	- The main reason you need experiences is to avoid all the hidden minefields
 	- A lot of development is unplanned
@@ -322,6 +319,28 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 		+ time to track down budget over runs?
 		+ time to change contents of hundreds of files?
 		+ Call a TA!
+* This is almost a job in itself
+	- Modern productions are too big to keep in anyones head
+		-	tons of assets
+		-	even more dependencies
+	- Manual fixups have to be the last line of defence, not the first
+		- ta's have to maximize their own productivity so they can maximise yours 			 
+*  disaster prep tips
+	- Up front investments
+		- open file formats
+			+ ex: level search and replace
+		- automation tools
+			+ ex: auditor
+		- asset tracking and metadata
+			+ ex: auto-budgets
+			+ ex: dependency tracking
+	-  Good use of source control
+		- triggers
+		- tracking data
+		- good commit messages
+	-   Cynicism
+		- "We just wont do that" rarely works
+		-  when it does, it's not always a good thing
 * Important difference: Disaster prep vs lurching from one crisis to another  
 	- production always involves crises
 	- TA's should be there to do the worst cleanup work
@@ -334,12 +353,8 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 	- Like Normandy beach -sometimes you have to make a frontal assault
 		- But if you do it every time you’ll be defeated
 		- back reference to #strategy.
-* disaster prep tips
-	- flexible scheduling
-	- open file formats
-	- automation tools
-	- asset tracking and metadata
-* 
+
+
 IV: Wrap
 ===========
 *	Sum up
