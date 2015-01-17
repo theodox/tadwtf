@@ -298,46 +298,66 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 			- TA's need to resist temptation to vanish into the ether
 				- constant contact is good for morale
 				- constant contact gives TAs better knowledge of the problems
-				- constant contact build political capital!
+				- constant contact builds political capital!
 			- Should be as embedded as possible
 	* Seque:  we've talked about the balance between #strategy and #tactics
 	 	+ but, to extend the warmongering metaphor, "No plan survives contact the enemy"
 		- The other big complicating factor in TA life is the balance between the planned and the unplanned.
-		- Good strats will fail. Good service will not magic away production crises
+		- Good strats will fail. 
+		- Good service will not magic away production crises
 		- Managing  crises is a *critical* part of TA
-* production experience is _the_ key
-	- You need this for three reasons
- 		- Can't do good tactics if you don't know the customers
-		- Can't do good strategy if you don't know the way things are made
-		- In the crises you need to be able to pitch in where needed, business card be damned
-	- Don't want to waltz in with no knowledge of ground truths		
-* Disaster preparedness
-	- The main reason you need experiences is to avoid all the hidden minefields
-	- A lot of development is unplanned
+*  Sure, nobody expect's a crisis.  But they are inevitable
+	+ Most common strategies all have weaknesses:
+	+ 'we won't do that' ?
+		- oh yes you will	!
+			- design and tech imperatives are all fluid
+			- publishers, designers, and playtest feedback all have a say!
+		- Moonrise character distances
+		- SOD cinematics
+	+ 'this tool will make that not a problem'
+		- tools are software. All software has bugs
+		- tools have long lead times, can't adapt to sudden changes
+			- eg, UE 4 removes script support
+		- tools, like games, don't arrive on time.
+	+ 'our engine is perfect'
+		- no its not
+		- the 'perfect' description of the finished game != the perfect working environment
+			- eg, Bungie tags
+		- too optimized data is hard to change. 
+* So, crises are inevitable
 	- When things go bad, TA is the first line of defence
 		+ time to rename files?
 		+ time to track down budget over runs?
 		+ time to change contents of hundreds of files?
 		+ Call a TA!
-* This is almost a job in itself
-	- Modern productions are too big to keep in anyones head
-		-	tons of assets
-		-	even more dependencies
-	- Manual fixups have to be the last line of defence, not the first
+	- and things always go bad.  Always.
+	- This is almost a job in itself
+		- Modern productions are too big to keep in anyones head
+			-	tons of assets
+			-	even more dependencies
+* Disaster response is a tough job
+	- by definition, it's not planned
+	- hard to improve, because every crisis is different
+	- high time costs
+	- Even so, Manual fixups have to be the last line of defence, not the first
 		- ta's have to maximize their own productivity so they can maximise yours 			 
 *  disaster prep tips
 	- Up front investments
+		- people skills
+			- all TAs need to be able to do their own automation, full stop  #macguyver
+			- scripting < hard core programming, but it's essential
+			-it's the only way to speed up massive drudge work
 		- open file formats
 			+ ex: level search and replace
-		- automation tools
-			+ ex: auditor
+		- automatable tools
+			+ no tool is front line ready if it doesn't have production flexibility
+			+ Maya example: everything is scriptable; vs old Max.
 		- asset tracking and metadata
-			+ ex: auto-budgets
-			+ ex: dependency tracking
-	-  Good use of source control
-		- triggers
-		- tracking data
-		- good commit messages
+			+ all forms of automation work easier with this
+		- Prevent bad source data
+			- p4 triggers to exclude bad files
+			- warn on out-of-date files
+			-  can't check in files with bad references, etc.
 	-   Cynicism
 		- "We just wont do that" rarely works
 		-  when it does, it's not always a good thing
@@ -353,8 +373,12 @@ II:  setting expectations  (>> TOO LONG!! 30 mins!)
 	- Like Normandy beach -sometimes you have to make a frontal assault
 		- But if you do it every time you’ll be defeated
 		- back reference to #strategy.
-
-
+* Reminder: close contact with art is the key
+	- You need this for three reasons
+ 		- Can't do good tactics if you don't know the customers
+		- Can't do good strategy if you don't know the way things are made
+		- In the crises you need to be able to pitch in where needed, business card be damned
+	- Don't want to waltz in with no knowledge of ground truths
 IV: Wrap
 ===========
 *	Sum up
