@@ -171,6 +171,8 @@ Horror stories
 	
 catalogue of horrors
 ========================
+> theme : industry keeps shooting self in foot
+
 * zipper levels
 	- giant maya file
 	- long load time
@@ -186,6 +188,13 @@ catalogue of horrors
 	- Go ask somebody to do it for you is not a strategy
 * bungie materials
 	- a ten year old email thread is not documentaion. 	
+
+Passion
+==========
+* these are the kind of things we do to ourselves
+* if you want to get the most out of your ta department,
+	- find people who are *MAD* about this stuff
+	- and let them loose to make things better
 
 Hallmarks of bad strategy
 ===========================
@@ -360,39 +369,31 @@ What an AD can look for:
 ==========================
 * If your not in the trenches it's hard to judge those relationships...
 	- but here are some things you can look for
-	- Does every crash generate an automatic email?
-		- .. and do TA's respond?
-	- Are tools released with testing and validation
-		- .. or just dumped into a network share?
-	- Do TA's know how to help?
-		+ there are lots of forms
-			+ Good person-to-person skills
-			+ Asking good questions
-			+ Prioritizing 	
-			+ training and education
-			+ docs...
-	- How Do TA's take and implement requests?
-		+ is it transparent? Is it well managed
-
-Time management
-===================
-- Good tactics are not something you can just schedule
-- service is a constant drain on attention
-- Post-it story
-- it's hard to keep focused on big picture items
-	+ I tend to rotate people in an out of the hotseat
-	+ so there is fast response
-	+ and tactical knowledge
-- Key point: don't siloize! 		 	
-
-> Does this work better one slide later? How to transition from 'tactics' to 'crisis management...?
+- Does every crash generate an automatic email?
+	- .. and do TA's respond?
+- Are tools released with testing and validation
+	- .. or just dumped into a network share?
+- Do TA's know how to help?
+	+ there are lots of forms
+		+ Good person-to-person skills
+		+ Asking good questions
+		+ Prioritizing 	
+		+ training and education
+		+ docs...
+- How Do TA's take and implement requests?
+	+ is it transparent? Is it well managed
+- in short: are the TA's in the trenches, helping out, and being part of the process day by day
 
 
 Tactics reprise
 =================
-+ Good tactics is all about service
-	- saving [#braincells] 
-	- keeping people happy and productive
++ Good tactics is all keeping people happy and productive
+	- close contacts
+	- good relationships
+	- sharing and collecting information
+* Good tactics is the foundation of strategy
+	- the information you learn in the trenches informs future decisions
+	- the trust you build helps bring your artists along for the ride
 + The hardest task for TA's is balancing strategy and tactics
 	- Strategy, like engineering, tends to take lots of time
 	- tension between doing service and complex code
@@ -414,7 +415,7 @@ Crisis management
 Sh*t Happens
 ==============
 *  Sure, nobody expect's a crisis.  But they are inevitable
-	+ Most common strategies all have weaknesses:
++ Most common strategies all have weaknesses:
 	+ 'we won't do that' ?
 		- oh yes you will	!
 			- design and tech imperatives are all fluid
@@ -431,34 +432,33 @@ Sh*t Happens
 		- the 'perfect' description of the finished game != the perfect working environment
 			- eg, Bungie tags
 		- too optimized data is hard to change. 
-		
+- in short: things will go wrong
+	
 TA = FEMA
 ==========
-* So, crises are inevitable
-	- When things go bad, TA is the first line of defence
-		+ time to rename files?
-		+ time to track down budget over runs?
-		+ time to change contents of hundreds of files?
-		+ Call a TA!
-	- and things always go bad.  Always.
-	- This is almost a job in itself
-		- Modern productions are too big to keep in anyones head
-			-	tons of assets
-			-	even more dependencies
+- When things go bad, TA is the first line of defence
+	- Because we know the pipeline
+	- Because we can free up artists to make more art
+	- Because we have tools and techniques to make this less brutal
 
 Disaster response is a tough job
 ===================================
 - by definition, it's not planned
-- hard to improve, because every crisis is different
-- high time costs
-- Even so, Manual fixups have to be the last line of defence, not the first
+	- hard to improve, because every crisis is different
+	- high time costs
+	- unpredictable
+- it's tempting to pawn it off on the unfortunate
+	+ some companies have whole departments that do nothing but scut work
+	+ There are some amazing people in those roles
+	+ but it's a tragic waste
+- Disaster response is a high skill job, not a low 
 	- ta's have to maximize their own productivity so they can maximise yours
 
 Disaster preparedness
 =====================
 - Up front investments
 	- people skills
-		- all TAs need to be able to do their own automation, full stop  #macguyver
+		- all TAs need to be able to do their own automation, full stop  [#macgyver]
 		- scripting < hard core programming, but it's essential
 		-it's the only way to speed up massive drudge work
 	- open file formats
