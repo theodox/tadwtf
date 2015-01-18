@@ -168,26 +168,24 @@ Horror stories
 * Segue:
 	- I've been in the business 20 years
 	- Friends said I could do the whole talk with nothing but horror stories
- *  I do want to illustrate strategy with a bad example: 
- 	-  poor level design process
-	-  it was not a process at all,  it was just the way things happened to get done
-		+ poor feedback looks: weeks not hours
-		+ hard to parallelize
-	- Low productivity
-		- Done in maya
-			- mistake right off - maya is bad a this sort of thing
-		- 10 minute load times
-		- could not show all the placements
-	- Bad feedback
-		+ Maya file was not wysiwyg
-		+ long export times
-		- exports generates so many errors they had to rebuild the exporter... to accomodate more error messages
-		- lots of working in the dark
-	- Turnaround time > 6 weeks
-		- UV changes
-		- moving roads
-		- trial and error exports
-	- Impossible to fine tune gameplay; killed the company
+	
+catalogue of horrors
+========================
+* zipper levels
+	- giant maya file
+	- long load time
+	- nothing like WYSIWYG
+	- awfule importer
+		-  crashing due to error reports!
+* bungie lighing
+	- overnight bake time
+	- artists believed they had precise control 
+	- but they didn't!
+	- tail chasing
+ * QC files
+	- Go ask somebody to do it for you is not a strategy
+* bungie materials
+	- a ten year old email thread is not documentaion. 	
 
 Hallmarks of bad strategy
 ===========================
