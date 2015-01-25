@@ -214,46 +214,92 @@ What's a TA?
 -  Fights for the users
 
 
-
 ---
-What is a TA?
-=============
-— problem solving
-— translation
-— service
-— pipeline planning
-
----
-Part II: Consumer reports
-================================
-
-- ta's fight for users
+Fight for the users....
+==========================
+![](http://cf.geekdo-images.com/images/pic1688698.jpg)
+^ segue: let me make that concrete 
 - we all know that parts of our jobs are garbage
 	- come in, 3 hours of emails, meetings, personnel conflicts...
 	- you're not in the mood to make great art
 	- finite reserve of decisions
 	- don't waste them
-- that's important, because the industry often does not remember this
+
+---
+Aaaugh!
+=======
+- Development is hard
+- Art is harder
+- Both together is rough
+
+----
+
+![](http://www.womanology.co.uk/folder/wp-content/uploads/2014/08/Charlie4.jpg)
+^ that's important, because the industry often does not remember this
 	- we ask for a lot of technical gibberish
 	- a lot of process chaos
 	- not good for creativity
-- TAs are there to fight that fight on your behalf
+
+---
+Save the brain cells
+====================
+- Better planning
+- Better tools
+- Help and training
+- Crisis management
+
+^ TAs are there to fight that fight on your behalf
 	- to make smart workflows
 	- to keep people focused on creative tasks
 - That fight is the hear of evererything we do.
-- Remember that
-- so let's look at how TA's do this over the life of the project
-- prepro
-	- planning for future needs
-		- new workflows
-		- new tools
-		- BS checking
-		- Mr Carson
+
+----
+> Creativity is a precious resource. Don't waste it on crap.
+
+^ If you don't take anything else away from this talk, Remember that
+
+---
+Project lifecycle
+=====================
+- Preproduction
+- Implementation
+- Production
+- Ship
+
+^ we're all familiar with the traditional development cycle...
+	- Preproduction
+	- Implementation
+	- Production
+	- Ship
+	- I'd like to walk you through the way that TA's deal with these cycle, and how our role changes.
+----
+Project lifecycle
+=====================
+- Daydreams
+- Optimism
+- Blithe Ignorance
+- Disaster
+
+^ However we also know that the neat little model of development rarely works out as planned.  My cynical little bullets here are a bit too much, but it points out something important about making games: you make all the decisions at the beginning, in the dark. You only find out later which guesses you know about.
+
+---
+TA in preproduction
+=======================
+- Prototyping
+
+^ so let's look at how TA's do this over the life of the project
 	- prepro is good for TAs
 		- everything is up in the air
 		- lots of questions to answer
 		- lots of boundaries to push
-	- preprois tough for many artists
+	
+---
+TA in preproduction
+=======================
+- Prototyping
+- Negotiating
+
+^	- preprois tough for many artists
 		- bad pattern
 		- engineer bullying
 		- TA's stand up more
@@ -261,8 +307,80 @@ Part II: Consumer reports
 	- Ben W Story
 		- you need to negotiate
 		- 4 % not worth the hassle
-- Production
-	- moving from pre-pro to production
+
+---
+TA in preproduction
+=====================
+- Prototyping
+- Negotiating
+- Workflow design
+
+^ TAs are good at worfklow design
+	-  They have production know-how 
+		+  eating your own dogfood is good
+			- TAs do; tools programmers usually don't
+	-  They've usually seen the results of mistakes close up!
+		+  bad decisions often land in our laps
+		+  We know the hard truth:
+			- no handshake agreement lasts
+			- everything is iterative
+			- yesterday's stretch goal is tomorrow's front line feature
+
+
+
+---
+Good workflow design
+===================
+- Transparent
+- Efficient
+- Collaborative
+- Iterative
+
+^ Prero is not just the time when you hammer out the story and schedule
+ - it's when you figure out how to make the game
+ - matching tools to task is critical
+ - mistakes here have big consequences
+ - TA"s are critical here, because we know the costs of poor designs
+ - EG, bungie character process
+^  Strategy has many details, but Good strategies...
+	-  Are understandable!	
+		-  TAs can help more, if they contribute more
+		-  That's why I like this kind of exporter dialog ![1 button exporter dialog image]
+		-  instead of this ![typical Fbx with all options visible]
+	-  Are efficient
+		+  One button and go is good
+		+ But there are many other ways to make things efficient
+			+  automatic naming and file placement
+			+  visual browsers with tagging instead of folder hierarchies
+			+  Search and replace in data files
+	-  Are collaborative and iterative
+		+  CTRL+G is good !
+
+---
+TA organization
+==============================
+- Titles don't matter much
+- But TA needs a seat at the table
+
+
+^	-  Is TA a department or group?
+	-  Personally I don't much care
+		-  if you're in a situation where TOE is important, you're probably already in trouble
+	-  However, heres one useful principle to keep in mind
+		- You want the TAD in discussions where process is important!
+			- new features
+			- new workflows
+			- scalability
+		-  The key thing that matter is **making the team pay attention to artists time and how it is spent.**
+		-  It it takes a title to do that, then great 
+^ needs graphic
+
+---	
+TA in Early Production
+==============
+- Implementation
+
+^	- moving from pre-pro to production
 		- things get real
 		- time to redeem the promises
 	- take of the negotiator hat, put on the programmer hat
@@ -270,30 +388,151 @@ Part II: Consumer reports
 		- 	we have to deliver, people are waiting
 		- we have to do it fast
 		- we have to do it reliably
-	- Ta's have not always done this
+
+---
+TA in Early Production
+==============
+- Implementation
+- Releases
+
+^	- Ta's have not always done this
 		- when we got started 10 -15 years ago this was pretty haphazeard
 		- nowadays it's a critical path for the whole compnay
 		- with great power comes great responsibility
 		- Haywood's text editor
 			- moral: can't be too safe
-	- Expect good service
+
+---
+TA in Early Production
+==========
+- Implementation
+- Releases
+- Fast fixes
+
+^ Expect good service
 		- smooth delivery
 		- fast fixes
 		- tested, bulletproofed
 		- trust	
-- Late production
-	- 	big questions answered
-	-  big tools delivered
-	- now is when shit hits the fan
+		- TA's aren't always good at that
+
+---
+Good TA Rollouts
+================
+- Planned
+- Not disruptive
+- Quick shakeout
+
+^ Trust themes: what you should be looking for is 
+^ safe, gentle, nondisruptive releases
+^ that are tested and work out of the box
+
+---
+TA in Mid-project
+============
+- Stable tools
+
+^ for us this is a more relaxing time, but also really important 
+^ This the good time, when the team is really running along
+^ new stuff happening, getting in game
+^ artists are perfecting new techniques
+
+----
+TA in Mid-project
+============
+- Stable tools
+- Good uptime
+
+^ this is when you should also see how well your TAs do at maintenance
+^ for example, automatic error reporting
+^ fast turnarounds on fixes
+^ releases that don't mess with schedules
+^ new feature requests being handled; backlog
+
+---
+TA in Mid-project
+============
+- Stable tools
+- Good uptime
+- Education
+
+^ A very important part of this period is education and training
+^ expect tas' to be out there with the artists
+^ demoing, explaining
+^ pushing feedback to engineers
+
+---
+TA in Mid-project
+============
+- Stable tools
+- Small fixes
+- Education
+- Relationship building
+
+^ -build relationships
+	- see how we're doing
+	- Good for our tech sides
+	- but more important for other side
+	- ANet story goes here
+
+----
+Good TA Service
+==========
+- Approachable
+- Responsive
+- Embedded 
+
+^ Good service  boils down to relationships:
+	-  be friendly
+	-  be knowledgeable
+	-  be helpful
+	-  be responsive
+	-  above all, be _there_
+	- >> keep the joke about "if being a grouchy genius is needed, we have programmers for that"	
+
+---
+TA in Late production
+===============
+- It's all working
+^  	big questions answered, big tools delivered
+
+---
+TA in Late production
+===============
+- It's all working
+- Until disaster hits
+
+^	- now is when shit hits the fan
 		- all the guesses made in the dark get tested
 		- many will be wrong
 		- "rebuild all the physics message"
 		- "quantize all the vertex colors"
 		- "cnahge all of these p's to q's"
-	- this hits Ta's hardest
+
+---
+TA Disaster response
+===================
+- TA's are 'first responders' 
+- Tech skills
+- Automation
+^	- this hits Ta's hardest
 		- it comes with the territory
 		-but there are good ways and bad ways
-		- too many companies choose the bad way
+	 by definition, it's not planned
+	- hard to improve, because every crisis is different
+	- high time costs
+	- unpredictable
+
+
+
+---
+Low investment trap
+===============
+- value the heroics
+- don't take them granted
+- gruntwork saps morale
+
+^  too many companies choose the bad way
 			- human wave attacks
 			- drudgery
 			- keeping people tasked out 100%
@@ -308,32 +547,42 @@ Part II: Consumer reports
 	- but it's a mistake
 	- wes g story
 		- don't be a garbageman	
-- recap
-	- get the balance right
+---
+TA Disaster preparedness
+==================
++ automation
++ open file formats
++ asset tracking
++ Defensive development
+
+^ Key weapons are
+	+ good tools
+	+ automation 
+	+ open file formats
+	+ asset tracking
+	+ Cynicism
+		- "We just wont do that" rarely works
+		-  when it does, it's not always a good thing
+
+
+---
+#Stop here
+---
+TA production lifecyle
+=======================
+- Balance shifts over time
+- Good department is balanced
+	- Tech
+	- Relationships
+	- Emergency services	
+
+
+^  get the balance right
 	- don't overdo tech
 		- no ivory tower
 	- don't overdo service
 		- ta's must be innovating
 	- don't overdo human waves.				 
-
-> segue?
-
->> 25 mins
-
-
----
-Be an informed consumer
-=======================
-- Use all aspects of what TAs can do
-- Maximize value
-- Help department mature
-
-^ Segue : Ta is important. It's a high value service. So you should learn how to use it. 
-^ Graphic wanted
-^ the real core of this talk is to show you how to be a good customer - and informed consumer of TA services. I want to show you a high-level overview of what TAs do so you can keep them on track, demand more from them, and get the most out of your department. Also, help them to grow up
-
---- 
-
 
 
 ---
@@ -347,8 +596,11 @@ Understanding  TA work
 
 ^ There's an infinity of details that I can't cover here, but all TAs work falls into one of 4 big categories 
 
+
+
 ----
-[fill] Infographic, pie chart with design, build, support, and crisis mgmt as carson, medic, and macgyver
+![inline](http://www.flammerouge.je/images/factsheets/evolution.gif)
+^ redo the graphic with the right heads
 
 ^ There's an infinity of details that I can't cover here, but all TAs work falls into one of r big categories 
 ^ tools = leonardo
@@ -362,10 +614,8 @@ What for?
 - this all boills down to one basic job:
 	- saving braincells
 
-
 ---
 ^ is this the right place?
-
 ![Steve jobs closet](http://allaboutstevejobs.com/persona/steveathome/05.jpg)
 
 ^ Creative thinking is a precious, finite resource
@@ -375,43 +625,10 @@ What for?
 	- All boil down to one big thing:
 	+ Making artists more productive
 
-
-^ This should be about the 10 minute mark - transition to 'ta consumer' section
-
 ---
 > Creative decisions are a **finite** resource. 
-
 Don't waste them on crap.
 
-
-
----
-Strategy & tactics
-====================
-+ Strategy: 
-	- designing tools and workflows
-	- logistics & planning
-	- prototyping
-+ Tactics
-	- front-line support
-	- education
-	- disaster response
-
-^ need infographic
-
-^ You can simply the four-way view a little further, into two big buckets
-	+ #Strategy: 
-		- this is big-picture stuff, year-to-year stuff
-		- logistics, planning, bullshit checking
-		- the "Mister carson side"
-		- emphasis on picking right workflows and tools design
-		- Ta's good because they can see the tech and production side!
-	+ #Tactics
-		- the day to day side		
-		- the "heal spam" side
-		- daily contacts, small jobs, help desk work
-		- this is small picture stuff: keeping people happy day to day
-			
 ---
 The right balance
 =================
@@ -436,7 +653,6 @@ Strategy and tactics over time
 	- implement & bulletproof
 	- maintain & explain
 
-![inline](http://www.flammerouge.je/images/factsheets/evolution.gif)
 
 ^ edit the infographic so the right heads are on the right bodies....
 
