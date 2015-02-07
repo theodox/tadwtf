@@ -506,7 +506,6 @@ Good TA Rollouts
 ---
 TA in Mid-project
 ============
-- Stable tools
 
 ^ for us this is a more relaxing time, but also really important 
 ^ This the good time, when the team is really running along
@@ -516,8 +515,7 @@ TA in Mid-project
 ----
 TA in Mid-project
 ============
-- Stable tools
-- Good uptime
+- Uptime
 
 ^ this is when you should also see how well your TAs do at maintenance
 ^ for example, automatic error reporting
@@ -528,8 +526,7 @@ TA in Mid-project
 ---
 TA in Mid-project
 ============
-- Stable tools
-- Good uptime
+- Uptime
 - Education
 
 ^ A very important part of this period is education and training
@@ -540,8 +537,7 @@ TA in Mid-project
 ---
 TA in Mid-project
 ============
-- Stable tools
-- Small fixes
+- Uptime
 - Education
 - Relationship building
 
@@ -554,8 +550,12 @@ TA in Mid-project
 ----
 ![](http://th07.deviantart.net/fs70/PRE/f/2012/224/2/9/michelangelo__heavy_and_medic_by_fustang-d5avrv0.png)
 
+^ this is where wee really build the relationships that let us know how to do our jobs right
+^ we need to be communicating well so we can learn from the artists
+^ and stand up for them in other phases of the project
+
 ----
-Good TA Service
+TA Service Guide
 ==========
 - Approachable
 - Responsive
@@ -576,11 +576,9 @@ TA in Late production
 
 ^  	big questions answered, big tools delivered
 
----
-TA in Late production
-===============
-- It's all working
-- Until disaster hits
+__
+![]()
+> Graphic: some kind of not too serious disaster relief pictue
 
 ^	- now is when shit hits the fan
 		- all the guesses made in the dark get tested
@@ -590,9 +588,15 @@ TA in Late production
 		- "cnahge all of these p's to q's"
 
 ---
-TA Disaster response
+TA in Late production
+===============
+- It's all working
+- Until disaster hits
+
+
+---
+TAs = First Responders
 ===================
-- TA's are 'first responders' 
 - Tech skills
 - Automation
 
@@ -617,15 +621,16 @@ Low investment trap
 			- keeping people tasked out 100%
 		- if you waste artists time on crap, you're doing it wrong
 		- if you waste all TA time on crap, you're also doing it wrong!
-	- right way:
-		- good tools to minimize these crises
-		- up fron investsments to make us more flexible
-		- TA's who use automation
-		- learn from mistakes
 	- sometimes you have to do it anyway
 	- but it's a mistake
 	- wes g story
 		- don't be a garbageman	
+
+___
+![]() 
+
+> Graphic "no garbagemen"
+
 
 ---
 TA Disaster preparedness
@@ -643,6 +648,11 @@ TA Disaster preparedness
 	+ Cynicism
 		- "We just wont do that" rarely works
 		-  when it does, it's not always a good thing
+
+
+---
+Wrapup
+======
 
 ---
 The TA production lifecyle
@@ -684,10 +694,6 @@ Change over time
 ^ support = the medic
 ^ emergencies = macgyver
 	
-
----
-Wrapup
-======
 
 ---
 Getting the most out of TA
