@@ -137,8 +137,6 @@ What's a TA?
 
 ^  a Good metaphor! but service means more than spamming heals
 		— nobody likes playing as just a buff buddy
-		- and t
-
 
 ---
 
@@ -235,6 +233,20 @@ What's a TA?
 	- not good for creativity
 
 ---
+![Steve jobs closet](http://allaboutstevejobs.com/persona/steveathome/05.jpg)
+
+^ Creative thinking is a precious, finite resource
+	+ don't waste it on BS stuff
+	+ Focus on story, moood, character
+	+ Not on file names, check boxes
+	- All boil down to one big thing:
+	+ Making artists more productive
+
+---
+> Creative decisions are a **finite** resource. 
+Don't waste them on crap.
+
+---
 Save the brain cells
 ====================
 - Better planning
@@ -247,10 +259,9 @@ Save the brain cells
 	- to keep people focused on creative tasks
 - That fight is the hear of evererything we do.
 
-----
-> Creativity is a precious resource. Don't waste it on crap.
-
-^ If you don't take anything else away from this talk, Remember that
+---
+Part II: TA lifecycle
+=====================
 
 
 ---
@@ -259,7 +270,9 @@ Project lifecycle
 - Preproduction
 - Buildout
 - Production
-- Ship
+- Wrap
+
+> graphic: stopwatch? 4 settings
 
 ^ Segue: for the rest of the talk I'll walk through the dev cycle..
 	- Preproduction
@@ -276,18 +289,28 @@ Project lifecycle
 - Blithe Ignorance
 - Disaster
 
+> Graphic: same image as last
+
 ^ However we also know that the neat little model of development rarely works out as planned.  My cynical little bullets here are a bit too much, but it points out something important about making games: you make all the decisions at the beginning, in the dark. You only find out later which guesses you know about.
+^ so let's look at how TA's do this over the life of the project
+
+---
+![](http://1.bp.blogspot.com/-VZvpdTNsZew/TtIpZQ0Pn2I/AAAAAAAABfA/nvv35ECqZJI/s400/01_P_MacchineGoldberg.jpg)
+
 
 ---
 TA in preproduction
 =======================
 - Prototyping
 
-^ so let's look at how TA's do this over the life of the project
-	- prepro is good for TAs
-		- everything is up in the air
-		- lots of questions to answer
-		- lots of boundaries to push
+^ Tas love prototypig
+	- our inner macgyver
+	- Naya FPS story
+
+
+---
+![](http://fc06.deviantart.net/fs71/i/2011/233/0/7/arm_wrestling_by_whifi-d47cigx.png)
+
 	
 ---
 TA in preproduction
@@ -295,6 +318,8 @@ TA in preproduction
 - Prototyping
 - Negotiating
 
+^ - leonardo side
+^ - dealss being made
 ^	- preprois tough for many artists
 		- bad pattern
 		- engineer bullying
@@ -303,6 +328,12 @@ TA in preproduction
 	- Ben W Story
 		- you need to negotiate
 		- 4 % not worth the hassle
+
+---
+![](http://www.realtimerendering.com/erich/minecraft/public/mineways/images/export_dialog.jpg)
+
+^ 
+
 
 ---
 TA in preproduction
@@ -321,38 +352,51 @@ TA in preproduction
 			- no handshake agreement lasts
 			- everything is iterative
 			- yesterday's stretch goal is tomorrow's front line feature
+	- Dhunt story
 
 
 ---
-Good workflow design
-===================
-- Transparent
+Workflow design
+===============
+
+---
+![](http://www.realtimerendering.com/erich/minecraft/public/mineways/images/export_dialog.jpg)
+
 
 ^ 	-  Are understandable!	
 		-  TAs can help more, if they contribute more
 		-  That's why I like this kind of exporter dialog ![1 button exporter dialog image]
 		-  instead of this ![typical Fbx with all options visible]
 
+
+---
+Workflow design
+===================
+- Transparent
+
+---
+![](http://4.bp.blogspot.com/_4Oy_7FFvAeg/TR36PE3Q7UI/AAAAAAAAI6w/1aPz3QO44Z4/s400/Goldberg%2BRube.%2Bmachine.%2Bolive.%2Banl.gov%2B.rube_olive.gif)
+
+^ efficiency also matters
+
+---
+![](https://udn.epicgames.com/Three/rsrc/Three/MaterialsTutorial/jwmt01.jpg)
+
+^  But there are many other ways to make things efficient
+	+  automatic naming and file placement
+	+  visual browsers with tagging instead of folder hierarchies
+	+  Search and replace in data files
+
 ---
 Good workflow design
 ===================
 - Transparent
 - Efficient
 
-^	-  instead of this ![typical Fbx with all options visible]
-	-  Are efficient
-		+  One button and go is good
-		+ But there are many other ways to make things efficient
-			+  automatic naming and file placement
-			+  visual browsers with tagging instead of folder hierarchies
-			+  Search and replace in data files
 
 ---
-Good workflow design
-===================
-- Transparent
-- Efficient
-- Collaborative
+![](https://s-media-cache-ak0.pinimg.com/236x/20/60/e5/2060e502c4530582d22ac0ca5bbde542.jpg)
+
 
 ^ encourage sharing
 	- eg, asser browser
@@ -366,10 +410,21 @@ Good workflow design
 - Transparent
 - Efficient
 - Collaborative
+
+---
+![fit](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-iterate-11.png)
+
+^ above all, artists want to experiment and iterate
+
+---
+Good workflow design
+===================
+- Transparent
+- Efficient
+- Collaborative
 - Iterative
 
-^ artists want to experiment and iterate
-
+^ if your ta's are higtting all of these things, youre winning
 
 ---
 Side note: TA organization
@@ -389,6 +444,9 @@ Side note: TA organization
 		-  The key thing that matter is **making the team pay attention to artists time and how it is spent.**
 		-  It it takes a title to do that, then great 
 ^ needs graphic
+
+---
+![](http://overwaterunderfire.org/mobile/img/LANDGRAB_images/landgrabHoover.jpg)
 
 ---	
 TA in Early Production
@@ -443,6 +501,9 @@ Good TA Rollouts
 ^ that are tested and work out of the box
 
 ---
+![](http://i.imgur.com/BRh4S.jpg)
+
+---
 TA in Mid-project
 ============
 - Stable tools
@@ -489,6 +550,9 @@ TA in Mid-project
 	- Good for our tech sides
 	- but more important for other side
 	- ANet story goes here
+
+----
+![](http://th07.deviantart.net/fs70/PRE/f/2012/224/2/9/michelangelo__heavy_and_medic_by_fustang-d5avrv0.png)
 
 ----
 Good TA Service
@@ -580,7 +644,7 @@ TA Disaster preparedness
 		- "We just wont do that" rarely works
 		-  when it does, it's not always a good thing
 
-
+---
 The TA production lifecyle
 =======================
 - Balance shifts over time
@@ -604,17 +668,44 @@ The TA production lifecyle
 
 ^ redo the graphic with the right heads
 
-^ There's an infinity of details that I can't cover here, but all TAs work falls into one of r big categories 
 ^ tools = leonardo
 ^ pipelines = mr carson
 ^ support = the medic
 ^ emergencies = macgyver
 
+---
+Change over time
+===============
+
+> graphic: different aspects of TA peak at different times
+
+^ tools = leonardo
+^ pipelines = mr carson
+^ support = the medic
+^ emergencies = macgyver
+	
+
+---
+Wrapup
+======
+
+---
+Getting the most out of TA
+=========================
+- TA is complex discipline
+- look for the key values:
+	- smart workflows
+	- good service
+	- solid relationships
+	- crisis management
+
+
 --- 
-What for?
+Getting the most out of TA
 ========
-- this all boills down to one basic job:
-	- saving braincells
+- TAs are there to help
+- Use them wisely!
+- The rest is details
 
 ---
 
