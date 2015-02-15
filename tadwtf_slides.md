@@ -47,6 +47,7 @@ Part I: What's a TA?
 
 ^ so, I did what I'm sure somebody in this room does and tried to google up some pictures I could use to illustrate the idea
 
+^ note - 3-4 sentences per slide in the next section
 ___
 
 ![](http://www.edsocialmedia.com/wp-content/uploads/2014/05/macgyver.jpg)
@@ -57,15 +58,16 @@ ___
 		— for stubborness and curiosity!
 
 ---
+
 ![](http://larryfire.files.wordpress.com/2009/03/macgyver.jpg?w=580)
 
-^  we specialize in improvisation
-	+ Its why we make good debuggers
-	+ But:
-		-	_hair joke here_
-	 	- he's a loner
-	 	- we work with others 
-	+	segue: renaissance man
+^  we specialize in improvisation and making do with what we can.
+
+---
+> graphic: another mcguyver, being very scientific
+
+^ MacG is a scientist, he likes to get to the bottom of things. so do we.
+^ Its why we make good debuggers
 
 ---
 What's a TA?
@@ -73,16 +75,17 @@ What's a TA?
 
 -  An improviser
 
+^ segue: but macg is a primarily a technical person; that misses an important part of who we are. We're not just techie, we're also artists
+
 ---
 ![Leonardo](http://b-i.forbesimg.com/anthonykosner/files/2013/08/leonardo-da-vinci-06.jpg)
 
-^	- the "technical"  in technical art makes it sound like it's all engineering
 	- Leonardo is proof idea that you can be technical and creative
 
 ---
 ![](http://www.misterioteca.com/wp-content/uploads/2014/04/Mona-Lisa.jpg)
 
-^ We all know he painted the mona lisa
+^ We all know he painted the mona lisa & the last supper
 
 ---
 ![](http://www.leonardodavincisinventions.com/wp-content/uploads/2012/02/leonardo-da-vinci-helicopter.jpg)
@@ -92,8 +95,13 @@ What's a TA?
 	- This image works because we're crazy half-and-half hybrids
 		+ we can talk to artists and to programmers;  #hybrid
 		+ Sometimes, jack-of-all-trades-master-of-none
-	- TA's work to bring art and engineering together
-		+ because we speak both languages, we are often the negotiators or diplomats 
+
+---
+![](pic: school of athens?)
+
+^ now this is not a leonardo butit's a renaissance classic; its about putting two worlds together.  Plato contemplates the divine and aristotle the earthly.
+^ We do that too: bringing different worlds together
+	+ because we speak both languages, we are often the negotiators or diplomats 
 
 ---
 What's a TA?
@@ -211,6 +219,7 @@ What's a TA?
 -  A logistics wizard
 -  Fights for the users
 
+^ dhunt note : don't make this oppositional
 
 ---
 
@@ -222,6 +231,7 @@ What's a TA?
 	- you're not in the mood to make great art
 	- finite reserve of decisions
 	- don't waste them
+
 
 ----
 
@@ -330,17 +340,7 @@ TA in preproduction
 		- 4 % not worth the hassle
 
 ---
-![](http://www.realtimerendering.com/erich/minecraft/public/mineways/images/export_dialog.jpg)
-
-^ 
-
-
----
-TA in preproduction
-=====================
-- Prototyping
-- Negotiating
-- Workflow design
+![](https://smarties2013.files.wordpress.com/2013/04/bad-userinterface1.jpg)
 
 ^ TAs are good at worfklow design
 	-  They have production know-how 
@@ -352,12 +352,20 @@ TA in preproduction
 			- no handshake agreement lasts
 			- everything is iterative
 			- yesterday's stretch goal is tomorrow's front line feature
+
+---
+TA in preproduction
+=====================
+- Prototyping
+- Negotiating
+- Workflow design
+
 	- Dhunt story
 
 
 ---
-Workflow design
-===============
+
+![](http://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-1.15.12-PM.png)
 
 ---
 ![](http://www.realtimerendering.com/erich/minecraft/public/mineways/images/export_dialog.jpg)
@@ -370,7 +378,7 @@ Workflow design
 
 
 ---
-Workflow design
+Workflow design 101
 ===================
 - Transparent
 
@@ -728,3 +736,4 @@ Getting the most out of TA
 > Creative decisions are a **finite** resource. 
 Don't waste them on crap.
 
+^ pause here...
