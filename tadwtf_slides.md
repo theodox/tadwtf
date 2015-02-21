@@ -46,6 +46,7 @@ Part I: What's a TA?
 
 
 ^ so, I did what I'm sure somebody in this room does and tried to google up some pictures I could use to illustrate the idea
+^ This a tricky job because it's hard to describe what we do.
 
 ^ note - 3-4 sentences per slide in the next section
 ___
@@ -106,16 +107,17 @@ What's a TA?
 ---
 What's a TA?
 ============
-
 -  An improviser
 -  A tech / art hybrid
+
+^ segue: But what about teamwork?   
+^ as hybrids, you could say we're dual-classed
 
 ---
 
 ![fill](http://foolproofdesigns.com/videogamejerks/wp-content/uploads/2013/06/DND_TOD_Characters.png)
 
-^ segue: But what about teamwork?   
-	- RPG quad
+^	- RPG quad
 	- Emphasizes teamwork  #service
 	- Engineering = Wizard.  The glass cannon
 	- Design = Theif.  Leaves work up to everybody else
@@ -124,20 +126,19 @@ What's a TA?
 
 ---
 
-![](http://yoshi348.thedailypos.org/imagefest/gs/016/gs018.png)
+> need better graphic here
 
 ^ what makes TA's happy is keeping everybody at max health; adding buffs, spamming heals, and raising the dead - or at least, recovering lost files.  We're here to keep you in the fight
-
 
 ---
 
 What's a TA?
 ============
-
 -  An improviser
 -  A tech / art hybrid
 -  A support specialist
 
+^ improvisation and border crossing define the way we work - but providing those buffs defines *what* we do
 
 ---
 
@@ -150,8 +151,7 @@ What's a TA?
 
 ![](http://fc03.deviantart.net/fs71/f/2012/130/2/c/downton_abbey___promotional_poster_by_emreunayli-d4z89pw.jpg)
 
-
-^ Segue: service != spamming heals!
+^ This is an interesting metaphor
 	- Service which knows its own domain very well.   #logistics
 	- gives deference, but expects to be recognized for expertise
 	
@@ -159,30 +159,26 @@ What's a TA?
 
 ![](http://www.comediva.com/wp-content/uploads/2014/01/downton-party_whenevs.jpg)
 
-^ a black tie dinner for doesn't just happen!
-^ somebody's got to check the inventory...
-^ the core of that expertise is in logistics and planning
-		+ making sure we take on achievable tasks
-		+ making it easy to achieve those tasks.
-	- is it sexy? not always
-	- but it makes the sexy stuff possible	 	 
-	- > https://41.media.tumblr.com/e291250ecce45758a3cd180ce1567487/tumblr_nawux9L5Wy1rv231do1_500.jpg
+^ There is a lot of special expertise on both sides that's needed to make things come off
+^ lady cora knows who can't sit with who
+^ but she doesn't know where the silverwear is, or how many pounds of potatoes you need to feed twenty guests
+^ the folks downstairs are not as glamorous as the lords and ladies but they have essential skills and knowledge
 
 
 ---
 
 ![](http://taylorholmes.com/wp-content/uploads/2012/08/downtonabbey-servants.jpg)
 
-^ the running of such a big enterprise is very complex
-^ and the folks upstairs don't always know the rules by which it runs
-^ is it sexy? not always
-^ but it makes the sexy stuff possible	 	 
+^ Game production is of course even more complex and has more specialist knowledge
+^ There are a lot of issues in production which are not art - you can't make art without resolving those issues
+^ This is a critical part of what TA's do: the try to makes sure the party goes well for the artists 	 
 	
 ---
 
 ![](http://media.nj.com/indulge/photo/downton-abbey-series-3-31e53281a83d2a49.jpg)
 
 ^ you could do worse as a metaphor than the relationship between upstairs and downstairs as a way of describing how art and techart relate....
+^ the best service uses the talent and creativity of the both sides
 
 
 ---
@@ -195,8 +191,6 @@ What's a TA?
 -  A logistics wizard
 
 ---
-
-
 
 ![fit](http://image.spreadshirt.com/image-server/v1/compositions/18837146/views/1,width=280,height=280,appearanceId=4.png/i-am-a-tech-artist-standard-weight-tee-any-color_design.png)
 
@@ -219,59 +213,59 @@ What's a TA?
 -  A logistics wizard
 -  Fights for the users
 
+^ So what do we do? This is all of it. 
 ^ dhunt note : don't make this oppositional
 
 ---
 
+> replace the charlie brown image with something about distraction
 ![fit](http://cf.geekdo-images.com/images/pic1688698.jpg)
 
-^ segue: let me make that concrete 
+^ segue: But let me make that concrete 
 - we all know that parts of our jobs are garbage
 	- come in, 3 hours of emails, meetings, personnel conflicts...
 	- you're not in the mood to make great art
 	- finite reserve of decisions
 	- don't waste them
 
-
-----
-
-![fit](http://www.womanology.co.uk/folder/wp-content/uploads/2014/08/Charlie4.jpg)
-
-^ that's important, because the industry often does not remember this
-	- we ask for a lot of technical gibberish
-	- a lot of process chaos
-	- not good for creativity
-
 ---
 ![Steve jobs closet](http://allaboutstevejobs.com/persona/steveathome/05.jpg)
 
+
+^ It's why obama, steve jobs, etc...
 ^ Creative thinking is a precious, finite resource
-	+ don't waste it on BS stuff
-	+ Focus on story, moood, character
-	+ Not on file names, check boxes
-	- All boil down to one big thing:
-	+ Making artists more productive
+^ finite resources
+
+---
+> ![]() sublime text screenshot
+^ creative people work very hard to create distraction free environments
+
+^ this is why we so many writers like distration free writing software instead of fancy word processors
+
+
+---
+> !()[] nasty ui dialog box screen shot
+^ But we give our artists tools that look like this. This is the opposite of distraction free!
+^ The difference between a TA and and a working artist could be summarized like this:
+^ Artist sees this and says, "ok, what do I have to do to meet my deadlines"
+^ TA sees this and says "this is ridiculous, we have to fix it"
 
 ---
 > Creative decisions are a **finite** resource. 
 Don't waste them on crap.
 
----
-Save the brain cells
-====================
-- Better planning
-- Better tools
-- Help and training
-- Crisis management
+^ If you don't remember anything else I say today, remember this.
+^ and remember that TA's are here to help save you from wasting creativity on crap.
 
-^ TAs are there to fight that fight on your behalf
-	- to make smart workflows
-	- to keep people focused on creative tasks
-- That fight is the hear of evererything we do.
 
 ---
 Part II: TA lifecycle
 =====================
+^ TAs are there to fight that fight on your behalf
+	- to make smart workflows
+	- to keep people focused on creative tasks
+^ That fight is the hear of evererything we do.
+^ Segue: for the rest of the talk I'll walk through the dev cycle..
 
 
 ---
@@ -290,54 +284,65 @@ Project lifecycle
 	- Production
 	- Ship
 	- I'd like to walk you through the way that TA's deal with these cycle, and how our role changes.
+	- It's important to see that what we we do changes a lot over the course of the production
+	- understanding that is key to making good use of what we offer.
+
+---
+> Graphic: build on previous slide
+Project lifecycle
+====================
+- Pre-production: Planning 
+- Buildout: Building tools
+- Production: Help and training
+- Wrapup: Crisis management
+
+^I'm going to show you how the things the TAs do map onto these four big cycles. 
+^ In part this is to show you the breadth of what we do
+^ In part to help you see that a good TA org has to move with the times
+
+---
+Preproduction
+=============
+
+![](http://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-1.15.12-PM.png)
+
+^ quick prepro sketch
+
 
 ----
-Project lifecycle
-=====================
-- Daydreams
-- Optimism
-- Blithe Ignorance
-- Disaster
+![](http://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-1.15.12-PM.png)
 
-> Graphic: same image as last
+^ lots of agendas going on
+^ segue: this is the time of maximum uncertanty. But the best remedy for uncertainty is not argument in a vacuum, it's prototyping
 
-^ However we also know that the neat little model of development rarely works out as planned.  My cynical little bullets here are a bit too much, but it points out something important about making games: you make all the decisions at the beginning, in the dark. You only find out later which guesses you know about.
-^ so let's look at how TA's do this over the life of the project
 
 ---
 ![](http://1.bp.blogspot.com/-VZvpdTNsZew/TtIpZQ0Pn2I/AAAAAAAABfA/nvv35ECqZJI/s400/01_P_MacchineGoldberg.jpg)
 
 
----
-TA in preproduction
-=======================
-- Prototyping
-
 ^ Tas love prototypig
 	- our inner macgyver
 	- Naya FPS story
 
+^ segue: Ta's love prototyping
+^ ...but not all arguments are prototypable
 
 ---
 ![](http://fc06.deviantart.net/fs71/i/2011/233/0/7/arm_wrestling_by_whifi-d47cigx.png)
 
 	
----
-TA in preproduction
-=======================
-- Prototyping
-- Negotiating
-
-^ - leonardo side
-^ - dealss being made
+^ A lot of the prepro process is about figuring out how the game will make be made
 ^	- preprois tough for many artists
 		- bad pattern
 		- engineer bullying
 		- TA's stand up more
 		- ta's = stronger negotiators
 	- Ben W Story
-		- you need to negotiate
-		- 4 % not worth the hassle
+	- Leonardo side
+
+^ segue:  once all the negotiations are done, we also have to design the tools that will implement all those workflow ideas
+^ Here's another way that TAs come in handy
+^ if you leave this stuff to pure tech people, you get things like this...
 
 ---
 ![](https://smarties2013.files.wordpress.com/2013/04/bad-userinterface1.jpg)
@@ -360,81 +365,39 @@ TA in preproduction
 - Negotiating
 - Workflow design
 
+^ So this is what you are looking for in pre-production:
+^ TA's are looking out for the way the game is going to be made
+^ both features and ways of working
+^ this is the where the combo of art and science becomes important
 	- Dhunt story
-
-
----
-
-![](http://www.wired.com/wp-content/uploads/blogs/geekdad/wp-content/uploads/2011/09/Screen-shot-2011-09-14-at-1.15.12-PM.png)
-
----
-![](http://www.realtimerendering.com/erich/minecraft/public/mineways/images/export_dialog.jpg)
-
-
-^ 	-  Are understandable!	
-		-  TAs can help more, if they contribute more
-		-  That's why I like this kind of exporter dialog ![1 button exporter dialog image]
-		-  instead of this ![typical Fbx with all options visible]
-
-
----
-Workflow design 101
-===================
-- Transparent
-
----
-![](http://4.bp.blogspot.com/_4Oy_7FFvAeg/TR36PE3Q7UI/AAAAAAAAI6w/1aPz3QO44Z4/s400/Goldberg%2BRube.%2Bmachine.%2Bolive.%2Banl.gov%2B.rube_olive.gif)
-
-^ efficiency also matters
-
----
-![](https://udn.epicgames.com/Three/rsrc/Three/MaterialsTutorial/jwmt01.jpg)
-
-^  But there are many other ways to make things efficient
-	+  automatic naming and file placement
-	+  visual browsers with tagging instead of folder hierarchies
-	+  Search and replace in data files
-
----
-Good workflow design
-===================
-- Transparent
-- Efficient
-
-
----
-![](https://s-media-cache-ak0.pinimg.com/236x/20/60/e5/2060e502c4530582d22ac0ca5bbde542.jpg)
-
-
-^ encourage sharing
-	- eg, asser browser
-^ encourage working together
-	- eg, no shared photoshop file
-	- hard to screw each other
-
----
-Good workflow design
-===================
-- Transparent
-- Efficient
-- Collaborative
 
 ---
 ![fit](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-iterate-11.png)
 
-^ above all, artists want to experiment and iterate
+^ If your artists 	
+	- experiment and iterate,
+	- not afraid to try new things
+	- are able to work together...
+^ then you've done your job
 
 ---
-Good workflow design
-===================
+Good pre-production makes good workflows
+=====
 - Transparent
 - Efficient
 - Collaborative
 - Iterative
 
-^ if your ta's are higtting all of these things, youre winning
+^ As customers it may be hard for you to evaluate prepro at the time
+^ it's hard to calculate the cost of disasters avoided
+^ But you can see if the plans laid in this period are the source of the tools and processes you use later
+^ you can judge them by their fruits
+
 
 ---
+
+> Graphic: The Dictator
+
 Side note: TA organization
 ==============================
 - Titles don't matter much
@@ -451,31 +414,30 @@ Side note: TA organization
 			- scalability
 		-  The key thing that matter is **making the team pay attention to artists time and how it is spent.**
 		-  It it takes a title to do that, then great 
-^ needs graphic
+^ needs graphic? Repeat the ponies?
 
 ---
+Early Production
+===
 ![](http://overwaterunderfire.org/mobile/img/LANDGRAB_images/landgrabHoover.jpg)
 
----	
-TA in Early Production
-==============
-- Implementation
+^ this section could all be construction themed
 
 ^	- moving from pre-pro to production
 		- things get real
 		- time to redeem the promises
 	- take of the negotiator hat, put on the programmer hat
-	- this is stressful time for us
+
+---
+> Graphic. Some kind of engineering fail. ideally social-realist
+
+^	- this is stressful time for us
 		- 	we have to deliver, people are waiting
 		- we have to do it fast
 		- we have to do it reliably
 
 ---
-TA in Early Production
-==============
-- Implementation
-- Releases
-
+> graphic: Spiderman? Great power, great responsibility
 ^	- Ta's have not always done this
 		- when we got started 10 -15 years ago this was pretty haphazeard
 		- nowadays it's a critical path for the whole compnay
@@ -484,13 +446,14 @@ TA in Early Production
 			- moral: can't be too safe
 
 ---
-TA in Early Production
+Not just good tools!
 ==========
-- Implementation
-- Releases
+- Good Implementation
+- Smooth Releases
 - Fast fixes
 
-^ Expect good service
+^ you may not be able to evaluate the programming of your TAs
+^ but you're in a great position to evaluate the rollouts:
 		- smooth delivery
 		- fast fixes
 		- tested, bulletproofed
@@ -498,22 +461,36 @@ TA in Early Production
 		- TA's aren't always good at that
 
 ---
-Good TA Rollouts
+Rollouts
 ================
 - Planned
 - Not disruptive
 - Quick shakeout
 
 ^ Trust themes: what you should be looking for is 
-^ safe, gentle, nondisruptive releases
-^ that are tested and work out of the box
+^ nondisruptive releases
+^ well tested and basically functional
+^ Glitches addressed quickly
 
 ---
+>GRAPHIC: trust
+
+^ all of this boils down to trust
+^ Do the TA's provide tools that artists trust
+^ and maintain them
+^ and improve them
+^ trust is the foundation of buy-in 
+
+---
+Production
+===========
+
 ![](http://i.imgur.com/BRh4S.jpg)
 
+^ seque: building trust critical in this next phase of production 
+
 ---
-TA in Mid-project
-============
+> Graphic, relaxation
 
 ^ for us this is a more relaxing time, but also really important 
 ^ This the good time, when the team is really running along
@@ -521,43 +498,55 @@ TA in Mid-project
 ^ artists are perfecting new techniques
 
 ----
-TA in Mid-project
-============
-- Uptime
+>  Graphic, service with a smile
 
-^ this is when you should also see how well your TAs do at maintenance
+
+^ this is when the service side of TA really comes into the fore
 ^ for example, automatic error reporting
 ^ fast turnarounds on fixes
+
+---
+> Graphic: zombie error dialog
+
+^ Service means attention to detail
+	* like making sure that every error is being logged and reported
+	* artists never report bugs voluntarily
+	* but if every error generates an email - and a visit from the TA... that builds trust
+
+
+---
+> graphic: TA backlog
+
+^ seque: not every bug can be handled directly
+^ not every suggestion can be acted on right away
 ^ releases that don't mess with schedules
 ^ new feature requests being handled; backlog
 
 ---
-TA in Mid-project
-============
-- Uptime
-- Education
 
-^ A very important part of this period is education and training
-^ expect tas' to be out there with the artists
+> graphic: Relationship theme
+
+^ Segue: but all this is technical.  The real key to service is relationships.
+^ prodution is the time when we should be building relationships.
+expect tas' to be out there with the artists
 ^ demoing, explaining
 ^ pushing feedback to engineers
+^ this is self interest:
+	- better educated artists are better for us
+	- time spent with users makes us better at what we do
+
 
 ---
-TA in Mid-project
-============
-- Uptime
-- Education
-- Relationship building
+> Graphic, learned helplessness
 
-^ -build relationships
-	- see how we're doing
-	- Good for our tech sides
-	- but more important for other side
-	- ANet story goes here
+
+^ Anet story
+
 
 ----
 ![](http://th07.deviantart.net/fs70/PRE/f/2012/224/2/9/michelangelo__heavy_and_medic_by_fustang-d5avrv0.png)
 
+^ segue: we need to build those relationships so we know wha'ts going on
 ^ this is where wee really build the relationships that let us know how to do our jobs right
 ^ we need to be communicating well so we can learn from the artists
 ^ and stand up for them in other phases of the project
@@ -596,48 +585,58 @@ __
 		- "cnahge all of these p's to q's"
 
 ---
-TA in Late production
-===============
-- It's all working
-- Until disaster hits
+> Graphic: first responders
 
 
----
-TAs = First Responders
-===================
-- Tech skills
-- Automation
-
-^	- this hits Ta's hardest
+^ TA is the first line of defence when things go wrong
 		- it comes with the territory
 		-but there are good ways and bad ways
+^ We have good skills for dealing with emergencies
+	- debugging
+		- more stubborn and more inclined to pick at clues
+	- technical background
+		- "we can spot a convex hull"
+	- ad-hoc automation
+		- Undead tree Story
+
+---
+> Graphic sucks to be us
+
+^ from a management and personal standpoint, it still sucks
 	 by definition, it's not planned
 	- hard to improve, because every crisis is different
 	- high time costs
 	- unpredictable
+^ Still, it comes with the territory
+^ it's a key part of what we do
+^ however... there are right ways and wrong ways to deal
 
 ---
-Low investment trap
-===============
-- value the heroics
-- don't take them granted
-- gruntwork saps morale
+> Graphic: Elephant and broom
+
+
+^ It's good to know that TAs are there to help out in emergencies
+^ that doesn't mean you can embrace bad tools and bad worfklows
+^ and trust us to pick up the pieces
+	- value the heroics
+	- don't take them granted
+	- gruntwork saps morale
+
+^	- wes g story
+		- don't be a garbageman	
+
+
+___
+> Graphic "no garbagemen"
 
 ^  too many companies choose the bad way
 			- human wave attacks
 			- drudgery
 			- keeping people tasked out 100%
 		- if you waste artists time on crap, you're doing it wrong
-		- if you waste all TA time on crap, you're also doing it wrong!
+^		- if you waste all TA time on crap, you're also doing it wrong!
 	- sometimes you have to do it anyway
 	- but it's a mistake
-	- wes g story
-		- don't be a garbageman	
-
-___
-![]() 
-
-> Graphic "no garbagemen"
 
 
 ---
@@ -648,15 +647,16 @@ TA Disaster preparedness
 + asset tracking
 + Defensive development
 
+^ What can yoyu do to help?
+^ Good preparation helps a lot
 ^ Key weapons are
 	+ good tools
-	+ automation 
 	+ open file formats
 	+ asset tracking
 	+ Cynicism
 		- "We just wont do that" rarely works
 		-  when it does, it's not always a good thing
-
+	+ Don't overschedule
 
 ---
 Wrapup
@@ -723,7 +723,7 @@ Getting the most out of TA
 
 ---
 
-![Steve jobs closet](http://allaboutstevejobs.com/persona/steveathome/05.jpg)
+> Graphic: stack of steve jobs t-shirts
 
 ^ Creative thinking is a precious, finite resource
 	+ don't waste it on BS stuff
