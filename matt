@@ -1,0 +1,9 @@
+matt
+- p4 trigger to check metas of incoming textures, send email if they are going to be over 512
+- hard polys in the whale in water town. Is it 
+- Android build.  Need nicco time - let's try to re-org so we can  paralellize
+- Kaiju perf
+	- we're forcing our stuff  read-write  enabled. We should be able to turn that off.
+	- if that works.... tell shaun
+- Ctrl + G = 10 mins.
+- Get SSD for matt 
