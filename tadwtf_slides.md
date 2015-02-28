@@ -2,23 +2,22 @@ intro / names dates
 ===================
 * intro / credits
 
-^ need funny attract loop
+^ session name
+^ I've been you, me
+^ how to get the most out of technical art
+
+^ me: 20 years in games
+	^ almost 10 years with this title
+	^ still, i'm at a loss
+^	 TA is a new field
+		- 2006 article
+		- 2009 trip
 
 ---
 Part I: What's a TA? 
 ========
-^ I started this talk as a discussion of my job
-	- but that's not too interesting to this audience
-	- instead
-		- how to get the most out of a department
-	- TA is a new field
-		- 2006 article
-		- 2009 trip
-	- now recognized - but often mis-used
-	- So this talk is about
-		- Overview of what TA is for
-		- How to be a good consumer of TA services
-		- Keeping your TA department in shape
+^	Setting up the talk is hard 
+^ Because TA is so diverse
 
 ---
 
@@ -48,34 +47,26 @@ Part I: What's a TA?
 ^ so, I did what I'm sure somebody in this room does and tried to google up some pictures I could use to illustrate the idea
 ^ This a tricky job because it's hard to describe what we do.
 
-^ note - 3-4 sentences per slide in the next section
 ___
 
 ![](http://www.edsocialmedia.com/wp-content/uploads/2014/05/macgyver.jpg)
 
 ^ he's resourceful
-	- TA's love solving problems
-		— we are usually self-selected
-		— for stubborness and curiosity!
-
----
-
-![](http://larryfire.files.wordpress.com/2009/03/macgyver.jpg?w=580)
-
 ^  we specialize in improvisation and making do with what we can.
 
 ---
-> graphic: another mcguyver, being very scientific
+![fit](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-because-i-m-macgyver.png)
+
+^  TA's love solving problems
+		— we are usually self-selected
+		— for stubborness and curiosity!
+
+
+---
+![](http://i0.kym-cdn.com/photos/images/original/000/639/590/5c9.jpg)
 
 ^ MacG is a scientist, he likes to get to the bottom of things. so do we.
 ^ Its why we make good debuggers
-
----
-What's a TA?
-============
-
--  An improviser
-
 ^ segue: but macg is a primarily a technical person; that misses an important part of who we are. We're not just techie, we're also artists
 
 ---
@@ -98,17 +89,11 @@ What's a TA?
 		+ Sometimes, jack-of-all-trades-master-of-none
 
 ---
-![](pic: school of athens?)
+![](http://luxebeatmag.com/wp-content/uploads/2014/06/Aristotle-Rafael-Painting.jpg)
 
 ^ now this is not a leonardo butit's a renaissance classic; its about putting two worlds together.  Plato contemplates the divine and aristotle the earthly.
 ^ We do that too: bringing different worlds together
 	+ because we speak both languages, we are often the negotiators or diplomats 
-
----
-What's a TA?
-============
--  An improviser
--  A tech / art hybrid
 
 ^ segue: But what about teamwork?   
 ^ as hybrids, you could say we're dual-classed
@@ -125,18 +110,10 @@ What's a TA?
 	- TA = Cleric. The support class.
 
 ---
-
-> need better graphic here
+![fit](http://1.bp.blogspot.com/-2q53Wxtui_w/T9Uj7oTIKoI/AAAAAAAAAzs/5dfRnZ6s_IY/s1600/Miracle+Warriors+-+Seal+of+the+Dark+Lord+%28UE%29+%5B%21%5D_001.png)
 
 ^ what makes TA's happy is keeping everybody at max health; adding buffs, spamming heals, and raising the dead - or at least, recovering lost files.  We're here to keep you in the fight
 
----
-
-What's a TA?
-============
--  An improviser
--  A tech / art hybrid
--  A support specialist
 
 ^ improvisation and border crossing define the way we work - but providing those buffs defines *what* we do
 
@@ -214,12 +191,10 @@ What's a TA?
 -  Fights for the users
 
 ^ So what do we do? This is all of it. 
-^ dhunt note : don't make this oppositional
 
 ---
 
-> replace the charlie brown image with something about distraction
-![fit](http://cf.geekdo-images.com/images/pic1688698.jpg)
+![fit](http://www.myimprov.com/wp-content/uploads/2013/03/1250009993-hangupanddrive.jpg)
 
 ^ segue: But let me make that concrete 
 - we all know that parts of our jobs are garbage
@@ -236,15 +211,10 @@ What's a TA?
 ^ Creative thinking is a precious, finite resource
 ^ finite resources
 
----
-> ![]() sublime text screenshot
-^ creative people work very hard to create distraction free environments
-
-^ this is why we so many writers like distration free writing software instead of fancy word processors
-
 
 ---
-> !()[] nasty ui dialog box screen shot
+![](https://smarties2013.files.wordpress.com/2013/04/bad-userinterface1.jpg)
+
 ^ But we give our artists tools that look like this. This is the opposite of distraction free!
 ^ The difference between a TA and and a working artist could be summarized like this:
 ^ Artist sees this and says, "ok, what do I have to do to meet my deadlines"
@@ -276,7 +246,6 @@ Project lifecycle
 - Production
 - Wrap
 
-> graphic: stopwatch? 4 settings
 
 ^ Segue: for the rest of the talk I'll walk through the dev cycle..
 	- Preproduction
@@ -288,7 +257,6 @@ Project lifecycle
 	- understanding that is key to making good use of what we offer.
 
 ---
-> Graphic: build on previous slide
 Project lifecycle
 ====================
 - Pre-production: Planning 
